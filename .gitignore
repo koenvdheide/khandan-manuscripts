@@ -19,6 +19,10 @@ catalog/temp/
 session*
 url*
 
+# Working screenshots
+*.png
+images/
+
 # Exclude corpus artifacts from public repo
 corpus/
 
