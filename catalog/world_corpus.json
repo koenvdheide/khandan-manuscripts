@@ -1,19 +1,20 @@
 {
-  "last_updated": "2026-02-26",
+  "last_updated": "2026-02-27",
   "schema_version": "1.0",
   "calligrapher": "Sultan Muhammad Khandan (سلطان محمد خندان)",
   "calligrapher_laqab": "خندان",
   "activity_range_ah": "915–992",
   "activity_range_ce": "1509–1584",
-  "total_entries": 43,
+  "total_entries": 44,
   "by_confidence": {
     "confirmed": 1,
     "attributed": 12,
     "catalogued": 26,
     "unverified": 4,
+    "bibliographic_error": 1,
     "pending_verification": 0
   },
-  "notes": "Sorted by date_ah ascending (original 16 entries); later entries appended in discovery order. Undated manuscripts placed at end. Confidence levels: confirmed = colophon visually verified by this project; attributed = signed colophon documented in a primary published source; catalogued = listed in a scholarly catalog without our independent verification; unverified = secondary mention only. YEK portal exhaustively searched (4 sessions, 2026-02-25/26). FIHRIST searches completed 2026-02-26. PDF gap analysis completed 2026-02-26. Online catalog sweep completed 2026-02-26: FIHRIST person_f4139 (no new items), baysunghur.org article (Saadati 2021, ~29 items cross-referenced), Chester Beatty Library catalog Vol. II (2 new items: Per 183, Per 184), Bonhams lot 27 (enriched), Gulbenkian online catalog (LA159 confirmed), Freer Gallery F1937.22 and F1944.48 (enriched). Total: 43 entries.",
+  "notes": "Sorted by date_ah ascending (original 16 entries); later entries appended in discovery order. Undated manuscripts placed at end. Confidence levels: confirmed = colophon visually verified by this project; attributed = signed colophon documented in a primary published source; catalogued = listed in a scholarly catalog without our independent verification; unverified = secondary mention only. YEK portal exhaustively searched (4 sessions, 2026-02-25/26). FIHRIST searches completed 2026-02-26. PDF gap analysis completed 2026-02-26. Online catalog sweep completed 2026-02-26: FIHRIST person_f4139 (no new items), baysunghur.org article (Saadati 2021, ~29 items cross-referenced), Chester Beatty Library catalog Vol. II (2 new items: Per 183, Per 184), Bonhams lot 27 (enriched), Gulbenkian online catalog (LA159 confirmed), Freer Gallery F1937.22 and F1944.48 (enriched). Total: 43 entries. Pre-report enrichment sweep 2026-02-27: FIHRIST records enriched (Delhi Persian 584A, Rylands 842, Bodleian Elliott 102, Or 11839). bl_hafiz_921 downgraded to bibliographic_error. bl_or_8760 date confirmed. christies_subhat_930/Sultani al-Qurani overlap resolved. New entry: christies_hoare_bustan (Oliver Hoare Collection, pasted purported signature). No digitized manuscripts found at BL, Rylands, Bodleian, or Chester Beatty.",
   "entries": [
     {
       "record_id": "private_tehran_yusuf_915",
@@ -123,17 +124,18 @@
         "external_url": "https://www.fihrist.org.uk/"
       },
       "attribution": {
-        "confidence_level": "unverified",
+        "confidence_level": "bibliographic_error",
         "source_type": "bibliography",
         "source_citation": "baysunghur.org/?p=1821, citing Bayani",
         "colophon_text": "",
         "signature_formula": "",
-        "our_verification": "FIHRIST searched 2026-02-26: no BL Hafiz divan attributed to Khandan at any date found. The only BL manuscript by Khandan dated 921 AH is Add. 7753 (Qiran al-Sadayn). A Hafiz divan by Khandan is at Rylands Library (Manchester), dated 937 AH (Persian MS 842). This entry is likely a bibliographic error."
+        "our_verification": "FIHRIST searched 2026-02-26: no BL Hafiz divan attributed to Khandan at any date found. The only BL manuscript by Khandan dated 921 AH is Add. 7753 (Qiran al-Sadayn). A Hafiz divan by Khandan is at Rylands Library (Manchester), dated 937 AH (Persian MS 842). This entry is likely a bibliographic error.",
+        "verification_status": "resolved"
       },
       "yek_data": null,
       "status": "insufficient_data",
       "further_action": "Source (Bayani via baysunghur.org) likely misidentified institution or date. Probable correct record: Rylands Persian MS 842 (Hafiz, 937 AH). Consider merging or deleting this entry.",
-      "notes": "LIKELY BIBLIOGRAPHIC ERROR. FIHRIST search found no BL Hafiz 921 AH by Khandan. The only confirmed 921 AH BL Khandan manuscript is Qiran al-Sadayn (Add. 7753). Hafiz divan by Khandan is at Rylands (Manchester), 937 AH. SOURCED: baysunghur.org (Saadati 2021) confirms this entry originates from Bayani, who places a Hafiz divan with date 921 AH at 'the British Museum in London'. See rylands_hafiz_937 for the confirmed Rylands copy."
+      "notes": "RESOLVED 2026-02-27: No evidence of a BL Hafiz by Khandan dated 921 AH found in FIHRIST, BL catalog searches, or web searches. baysunghur.org (Saadati 2021) traces this to Bayani, who places it at \"the British Museum, London.\" The confirmed Hafiz by Khandan is Rylands Persian MS 842 (937 AH, Herat). This entry is most likely a bibliographic error — either a confusion of institution (Rylands ≠ BL) or date (937 ≠ 921). Retained in corpus with bibliographic_error status for traceability."
     },
     {
       "record_id": "bl_qiran_921",
@@ -373,7 +375,7 @@
       "yek_data": null,
       "status": "insufficient_data",
       "further_action": "Christie's catalog cites Karatay 1961 nos. 777 and 787 as Topkapi comparanda — check yazmalar.gov.tr for those records. Buyer unknown.",
-      "notes": "224 ff. + 4 fly-leaves; 14 lines/page; two columns; gold intercolumnar rules; ivory paper. Place of copying Herat stated. Karatay 1961 nos. 777 and 787 cited as comparable Topkapi copies. NOTE: baysunghur.org (Saadati 2021) separately lists a Subhat al-Abrar 930 AH in the collection of Jafar Sultani al-Qurani, Tehran, with same raqm. This may be the same manuscript before auction, or a distinct copy."
+      "notes": "224 ff. + 4 fly-leaves; 14 lines/page; two columns; gold intercolumnar rules; ivory paper. Place of copying Herat stated. Karatay 1961 nos. 777 and 787 cited as comparable Topkapi copies. NOTE: baysunghur.org (Saadati 2021) separately lists a Subhat al-Abrar 930 AH in the collection of Jafar Sultani al-Qurani, Tehran, with same raqm. This may be the same manuscript before auction, or a distinct copy. UPDATED 2026-02-27: Searched for a separate \"Sultani al-Qurani\" copy of Subhat al-Abrar 930 AH. No evidence of a distinct manuscript found. baysunghur.org's mention of two 930 AH copies likely refers to this Christie's lot under a different provenance label. Treated as one manuscript unless contradicted by Bayani 1966 directly."
     },
     {
       "record_id": "freer_muntakhab_930",
@@ -672,7 +674,9 @@
         "language": "Persian",
         "folio_count": 382,
         "dimensions_mm": "300x180",
-        "place_of_copying": "Herat (probable)"
+        "place_of_copying": "Herat (probable)",
+        "patron": "ʿAlī Shīr Navāʾī (noted in shamsah f.1r; died 1501, before ms completion)",
+        "support": "Original brown paper remounted on white paper (perhaps 18th century)"
       },
       "holding": {
         "institution": "British Library (India Office Library)",
@@ -733,7 +737,7 @@
       "yek_data": null,
       "status": "insufficient_data",
       "further_action": "Verify date: 888 AH predates Khandan by ~27 years. Physical examination or correspondence with BL needed to determine if date refers to text composition or manuscript copying.",
-      "notes": "NEW FIND (FIHRIST 2026-02-26). Date 888 AH is anomalous — Khandan active from 915 AH / 1509 CE. Possible explanations: (1) date is of text composition, not copying; (2) cataloguing error; (3) attribution to a different calligrapher with same name. Needs verification."
+      "notes": "UPDATED 2026-02-27: Simpson (Sultan Ibrahim Mirza's Haft Awrang) confirms \"Shahi dated 888/1483-84 (BL Or. 8760)\". Meredith-Owens 1968 p.56 is the BL catalog source. The 888 AH date appears to be the copying date per standard catalog convention. This predates Khandan's confirmed activity (915 AH) by 27 years. Either: (a) the attribution to Khandan is incorrect and this is by a different scribe; (b) Khandan's activity began earlier than currently documented; or (c) 888 AH is a text composition date misread as a copying date. Without access to the manuscript, this cannot be resolved. Status remains unverified."
     },
     {
       "record_id": "bl_or_11839",
@@ -791,7 +795,7 @@
         "script_type": "nastaʿlīq",
         "language": "Persian",
         "folio_count": null,
-        "dimensions_mm": "",
+        "dimensions_mm": "257 × 161",
         "place_of_copying": "Herat"
       },
       "holding": {
@@ -830,7 +834,7 @@
         "date_notes": "Undated",
         "script_type": "nastaʿlīq",
         "language": "Chagatay Turkish",
-        "folio_count": null,
+        "folio_count": 98,
         "dimensions_mm": "",
         "place_of_copying": ""
       },
@@ -1229,12 +1233,13 @@
         "source_citation": "Marianna Shreve Simpson Islamic Manuscript Record Archive, University of Michigan Library Digital Collections. Accessed 2026-02-26.",
         "colophon_text": "",
         "signature_formula": "",
-        "our_verification": ""
+        "our_verification": "",
+        "related_to": "bl_or_11839"
       },
       "yek_data": null,
       "status": "awaiting_access",
       "further_action": "Original manuscript identified as BL Or 11839 via Classification Filing Number. See bl_or_11839 in this corpus for full album details including FIHRIST record.",
-      "notes": "Archival photograph of a two-page spread of calligraphic specimens by Sultan Muhammad Khandan and Shah Mahmud al-Nishapuri. Part of Marianna Shreve Simpson's research archive (copyright 2019 Dr. Marianna Shreve Simpson). The original physical manuscript is the British Library's Or 11839 (see record bl_or_11839 in this corpus); the Classification Filing Number 'Or 11839' in the Simpson Archive identifies this as a record for that album. This Simpson Archive entry documents 2 pages (13ASIMPSON0459 + 13ASIMPSON0460) of BL Or 11839 photographed during Marianna Shreve Simpson's research. Image 2 of 2 in this entry; Image 1 at 13ASIMPSON0459."
+      "notes": "NOT a distinct physical manuscript. This is an archival photograph in Marianna Shreve Simpson's Islamic manuscript research archive (University of Michigan Library). The Classification Filing Number \"Or 11839\" identifies it as a record for BL Or 11839 (already in corpus as bl_or_11839). Retained for provenance traceability only."
     },
     {
       "record_id": "chester_beatty_bustan_916",
@@ -1755,6 +1760,43 @@
       "status": "awaiting_access",
       "further_action": "Bayani collection location after 1966 unknown.",
       "notes": "Script: do dang and kitabat-i jali. DISTINCT from bayani_bustan_920 (codex). Same collector: Mahdi Bayani."
+    },
+    {
+      "record_id": "christies_hoare_bustan",
+      "text": {
+        "title": "Bustān",
+        "title_arabic": "بوستان",
+        "author": "Shaykh Muṣliḥ al-Dīn Saʿdī (d. 1292 CE)",
+        "author_arabic": "شيخ مصلح الدين سعدی",
+        "genre": "masnavi"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "16th century (Safavid)",
+        "date_notes": "Undated; attributed to 16th century on stylistic grounds",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": 464,
+        "dimensions_mm": "207 × 122 (folio); 146 × 74 (text panel)",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "Private (after Mayfair Auction House 2023)",
+        "city": "London",
+        "country": "United Kingdom",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": "https://www.christies.com/en/lot/lot-6229991"
+      },
+      "attribution": {
+        "confidence_level": "unverified",
+        "source_type": "auction_catalog",
+        "source_citation": "Christie's London, The Oliver Hoare Collection, 25 Oct 2019, lot 79 (lot-6229991). Re-sold Mayfair Auction House, London, 25 May 2023, lot 31. Est. £3,000-5,000 (Christie's), £16,500-17,500 (Mayfair).",
+        "colophon_text": "",
+        "signature_formula": "",
+        "verification_status": "unverified"
+      },
+      "notes": "CRITICAL: Christie's describes the Khandan attribution as a 'pasted, purported signature' — the signature was physically glued onto the final folio, not written as part of the original colophon. Christie's estimated it at only £3,000-5,000 (vs. £45,600 for the confirmed Bonhams Bustan 956 AH), reflecting skepticism about the attribution. The 464-folio count is unusually large for a Bustan (typically ~130-180ff); may include supplementary texts or extensive commentary. Numerous Qajar illustrations are later additions. Oliver Hoare (1945-2018) was a noted London dealer in Islamic art. Wikimedia Commons has an image: File:Shaykh_Muslih_al-Din_Sa'di_(d._1292);_Bustan,_Safavid_Iran,_16th_century.jpg"
     }
   ]
 }

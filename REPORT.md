@@ -1,6 +1,6 @@
 # Sultan Muhammad Khandan — Corpus of Known Manuscripts
 
-*Research report compiled 2026-02-26. Based on searches of the YEK portal (portal.yek.gov.tr / yazmalar.gov.tr), FIHRIST (fihrist.org.uk), and online museum catalogs. Data file: `catalog/world_corpus.json`.*
+*Research report compiled 2026-02-26, updated 2026-02-27. Based on searches of the YEK portal (portal.yek.gov.tr / yazmalar.gov.tr), FIHRIST (fihrist.org.uk), and online museum catalogs. Data file: `catalog/world_corpus.json`.*
 
 ---
 
@@ -52,7 +52,7 @@ Systematic scraping of online catalogs and web searches using Firecrawl CLI:
 | Freer Gallery F1937.22 / F1944.48 | Enriched: title corrected ("Fettered Camel and Keeper"); gilder = Baba al-Mudhahhib |
 | Web searches (English + Persian) | Chester Beatty PDF, Lyon & Turnbull reference, Wikimedia Commons files |
 
-Corpus grew from 30 to **43 entries** (confirmed: 1, attributed: 12, catalogued: 26, unverified: 4).
+Corpus grew from 30 to **43 entries** (confirmed: 1, attributed: 12, catalogued: 26, unverified: 4). A further enrichment sweep on 2026-02-27 added 1 new entry (Christie's/Mayfair Bustan with "pasted, purported" Khandan signature) and resolved bl_hafiz_921 as a bibliographic error, bringing the corpus to **44 entries** (confirmed: 1, attributed: 12, catalogued: 26, unverified: 4, bibliographic_error: 1).
 
 ---
 
@@ -152,8 +152,9 @@ Manuscripts listed in scholarly catalogs (Bayani, FIHRIST, secondary literature)
 
 | Record ID | Shelfmark | Institution | Title | Issue |
 | --- | --- | --- | --- | --- |
-| bl_hafiz_921 | — | British Library (reported) | Dīwān-i Ḥāfiẓ, 921 AH | FIHRIST search found no such record. baysunghur.org (Saadati 2021) confirms origin in Bayani, who places it at "the British Museum, London." Likely bibliographic error; probable correct record = Rylands Persian MS 842 (937 AH). |
-| bl_or_8760 | Or 8760 | British Library | Dīwān-i Shāhī, 888 AH | Date 888 AH anomalous — predates Khandan by 27 years. Date may refer to text composition, not copying. |
+| bl_hafiz_921 | — | British Library (reported) | Dīwān-i Ḥāfiẓ, 921 AH | **RESOLVED (2026-02-27): bibliographic error.** No evidence found in FIHRIST, BL catalog searches, or web searches. baysunghur.org (Saadati 2021) traces this to Bayani, who places it at "the British Museum, London." The confirmed Hafiz by Khandan is Rylands Persian MS 842 (937 AH, Herat). Most likely a confusion of institution (Rylands ≠ BL) or date (937 ≠ 921). |
+| bl_or_8760 | Or 8760 | British Library | Dīwān-i Shāhī, 888 AH | Date 888 AH anomalous — predates Khandan by 27 years. Simpson (*Sultan Ibrahim Mirza's Haft Awrang*) confirms "Shahi dated 888/1483-84 (BL Or. 8760)"; Meredith-Owens 1968 p.56. Appears to be a copying date per catalog convention. Attribution to Khandan unresolved. |
+| christies_hoare_bustan | — (sold) | Private (after Mayfair 2023) | Bustān (Saʿdī), undated | **NEW (2026-02-27).** 464ff, nastaliq, Safavid Iran 16th c. Christie's (Oliver Hoare Collection, 25 Oct 2019, lot 79, est. £3,000–5,000) describes Khandan signature as **"pasted, purported"** — physically glued onto final folio, not original colophon. Re-sold Mayfair Auction House 25 May 2023, lot 31, est. £16,500–17,500. |
 | topkapi_H2356 | H.2356 | Topkapi Palace Museum Library | Muraqqa (calligraphy album) | Cited in Sotheby's 2018 as containing Khandan pages. No YEK record with Khandan attribution found. Requires physical access or consultation of Karatay 1961 catalogue. |
 | yek_705856_candidate | Recaizade Ekrem Bey 00066 | İstanbul Arkeoloji Müzeleri | Bustān (Saʿdī) | Colophon formula 'أضعف عبادالله' legible on f.144v but scribe-name portion physically lost to folio damage. Verdict: inconclusive (confidence 0.38). Physical examination of manuscript required. |
 
@@ -195,7 +196,7 @@ Manuscripts listed in scholarly catalogs (Bayani, FIHRIST, secondary literature)
 
 | Text | Author | Genre | Copies in corpus |
 | --- | --- | --- | --- |
-| Bustān | Saʿdī | masnavi | 4 (bayani_bustan_920; chester_beatty_bustan_916; bonhams_bustan_956; yek_705856_candidate) |
+| Bustān | Saʿdī | masnavi | 5 (bayani_bustan_920; chester_beatty_bustan_916; bonhams_bustan_956; yek_705856_candidate; christies_hoare_bustan [pasted signature]) |
 | Subḥat al-Abrār | Jāmī | masnavi | 2 (christies_subhat_930; gulbenkian_subhat_972) + Karatay 777 (unconfirmed) |
 | Yūsuf va Zulaykha | Jāmī | masnavi | 3 (private_tehran_yusuf_915; private_paris_yusuf_923; tehran_nli_yusuf) |
 | Dīwān-i Ḥāfiẓ | Ḥāfiẓ | divan | 3 (kabul_hafiz_926; rylands_hafiz_937; chester_beatty_hafiz_920) |
@@ -263,13 +264,13 @@ Manuscripts listed in scholarly catalogs (Bayani, FIHRIST, secondary literature)
 | Topkapi Karatay 777/787 (Subhat al-Abrar, 930 AH) | Same as above. |
 | ~~Gulbenkian LA 159 shelfmark~~ | **RESOLVED.** Shelfmark LA159 confirmed via Gulbenkian Museum online catalog, 2026-02-26. |
 | BL Or 8760 (888 AH) | Verify whether 888 AH is date of text composition or manuscript copying. |
-| bl_hafiz_921 | Sourced to Bayani via baysunghur.org — Bayani places it at "British Museum, London." Likely = Rylands Persian MS 842, but cannot rule out distinct BL copy without seeing Bayani 1966 directly. |
+| ~~bl_hafiz_921~~ | **RESOLVED (2026-02-27).** Downgraded to bibliographic_error. No evidence in FIHRIST or BL catalog. Likely = Rylands Persian MS 842 (937 AH). |
 | Israel Museum (Qiran al-Sadayn, 925 AH) | Contact Israel Museum for shelfmark and confirm attribution. |
 | Majlis Library ms. 1343 (Divan-i Shahi, 944 AH) | Search Majlis Library online catalog (lib.icana.ir) or contact institution. |
 | National Library of Iran (Yusuf va Zulaykha, undated) | Search NLI catalog or Dirayati for shelfmark. |
 | National Museum of Iran (Divan-i Navai, undated) | Contact institution for shelfmark. |
 | Hazine-i Evkaf album shelfmarks | Identify shelfmarks for all 4+ named albums. Cross-reference Bahram Mirza muraqqa with topkapi_H2356. |
-| christies_subhat_930 vs. Sultani al-Qurani copy | baysunghur.org lists two 930 AH Subhat al-Abrar copies — one sold at Christie's, one in Sultani al-Qurani collection. May be the same ms pre-auction or two distinct copies. |
+| ~~christies_subhat_930 vs. Sultani al-Qurani~~ | **RESOLVED (2026-02-27).** No evidence of a separate Sultani al-Qurani copy found. Likely the same manuscript under a different provenance label. |
 
 ---
 
