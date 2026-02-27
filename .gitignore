@@ -1,0 +1,29 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Project-local memory/state
+MEMORY.md
+Khandan.md
+.claude/settings.local.json
+catalog/searches/
+catalog/temp/
+
+# Tool artifacts and logs
+.playwright-mcp/
+.firecrawl/
+*.log
+
+# Session debugging artifacts
+session*
+url*
+
+# Exclude corpus artifacts from public repo
+corpus/
+
+# Editor/OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
