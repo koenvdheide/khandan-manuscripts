@@ -1,0 +1,37 @@
+{
+  "yek_id": 704952,
+  "shelfmark": "01992-002",
+  "collection": "TIEM Yazma Eser Koleksiyonu",
+  "verdict": "colophon_not_found",
+  "confidence": 0.80,
+  "confidence_breakdown": {
+    "resolution_quality": 1.0,
+    "colophon_coverage": 0.9,
+    "text_legibility": 0.7,
+    "limiting_factor": "damage"
+  },
+  "colophon_text_read": "تمام شد كتاب الهى [نامه] شيخ فريد الدين عطار رضوان الله و حسن [?]",
+  "signature_formula_found": "",
+  "name_in_colophon": "",
+  "date_in_colophon": "",
+  "date_ah_read": "",
+  "date_ce_computed": "",
+  "place_in_colophon": "",
+  "internal_iiif_id": "0000000663906",
+  "total_pages": 465,
+  "pages_examined": [114, 115, 116, 225],
+  "screenshots_saved": [
+    "corpus/colophon_screenshots/tiem_01992-002_p114_iiif.png",
+    "corpus/colophon_screenshots/tiem_01992-002_p115_iiif.png",
+    "corpus/colophon_screenshots/tiem_01992-002_p115_right_top_iiif.png",
+    "corpus/colophon_screenshots/tiem_01992-002_p115_right_colophon_iiif.png",
+    "corpus/colophon_screenshots/tiem_01992-002_p115_colophon_detail_iiif.png",
+    "corpus/colophon_screenshots/tiem_01992-002_p116_iiif.png"
+  ],
+  "colophon_page_number": 0,
+  "colophon_in_metadata": false,
+  "colophon_metadata_text": "",
+  "different_scribe_name": "",
+  "verification_date": "2026-02-25",
+  "notes": "Multi-text codex (465 pages). Ilahinama by Fariduddin Attar occupies folios 38b-111b. Text ends on right page of digitized page 115 (folio 111b) with completion formula 'tamam shud kitab ilahi-nama shaykh fariduddin attar ridwan allah wa husn [?]' -- names only the author, not a scribe. No scribal colophon found. Gold-flecked pink paper, 4-column nastaaliq with hikayat section headers. Some gold-leaf damage obscures portions of text on final page. The next text in the codex begins on page 116 right with a new illuminated headpiece. Option 4 candidate -- no evidence of Khandan attribution found in the colophon area of this specific text."
+}

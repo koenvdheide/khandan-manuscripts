@@ -1,0 +1,30 @@
+{
+  "yek_id": 181978,
+  "shelfmark": "00117",
+  "collection": "Ali Nihat Tarlan",
+  "verdict": "colophon_not_found",
+  "confidence": 0.95,
+  "confidence_breakdown": {
+    "resolution_quality": 0.0,
+    "colophon_coverage": 0.0,
+    "text_legibility": 0.0,
+    "limiting_factor": "inherent_uncertainty"
+  },
+  "colophon_text_read": "",
+  "signature_formula_found": "",
+  "name_in_colophon": "",
+  "date_in_colophon": "",
+  "date_ah_read": "",
+  "date_ce_computed": "",
+  "place_in_colophon": "",
+  "internal_iiif_id": "",
+  "total_pages": 0,
+  "pages_examined": [],
+  "screenshots_saved": [],
+  "colophon_page_number": 0,
+  "colophon_in_metadata": false,
+  "colophon_metadata_text": "",
+  "different_scribe_name": "",
+  "verification_date": "2026-02-25",
+  "notes": "FALSE POSITIVE. This is Divan-i Shevket by Shevket-i Bukhari (Muhammad b. Ishaq, d. 1107/1695 CE), NOT a divan by Sultan Huseyin Baykara. The word 'khandan' appears in the bitish satirlari as a common Persian adjective meaning 'smiling/happy' in a ghazal couplet: 'daram umid ki khandan bi-durust baz-ayam / an-qadr-ha ki z dargah-i tu giryan raftam' (I hope to return smiling / as much as I left your door weeping). Standard poetic antithesis khandan/giryan. Author post-dates Khandan by over a century. No copyist is attributed. Colophon examination not performed as this is clearly unrelated to Sultan Muhammad Khandan."
+}

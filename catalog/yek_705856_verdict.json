@@ -1,0 +1,41 @@
+{
+  "yek_id": 705856,
+  "shelfmark": "Recaizade Ekrem Bey 00066",
+  "collection": "Istanbul Arkeoloji Muzeeleri Yazmalari",
+  "verdict": "inconclusive",
+  "confidence": 0.45,
+  "confidence_breakdown": {
+    "resolution_quality": 0.9,
+    "colophon_coverage": 0.95,
+    "text_legibility": 0.25,
+    "limiting_factor": "damage"
+  },
+  "colophon_text_read": "أضعف عباد[الله] [... name portion physically lost to folio damage ...]",
+  "signature_formula_found": "أضعف عبادالله",
+  "name_in_colophon": "",
+  "date_in_colophon": "",
+  "date_ah_read": "",
+  "date_ce_computed": "",
+  "place_in_colophon": "",
+  "internal_iiif_id": "0000000664425",
+  "total_pages": 152,
+  "pages_examined": [143, 144, 145, 146, 147, 148, 149, 150, 151, 152],
+  "screenshots_saved": [
+    "corpus/colophon_screenshots/arkeoloji_recaizade_ekrem_bey_00066_p146_hires_3000px.jpg",
+    "corpus/colophon_screenshots/arkeoloji_recaizade_ekrem_bey_00066_p146_colophon_diag_5x.jpg",
+    "corpus/colophon_screenshots/arkeoloji_recaizade_ekrem_bey_00066_p146_left_bottom_half_2p5x.jpg",
+    "corpus/colophon_screenshots/arkeoloji_recaizade_ekrem_bey_00066_p147_5000px.jpg",
+    "corpus/colophon_screenshots/arkeoloji_recaizade_ekrem_bey_00066_p147_colophon_gray_5x.jpg",
+    "corpus/colophon_screenshots/arkeoloji_recaizade_ekrem_bey_00066_p147_colophon_cluster_7x.jpg",
+    "corpus/colophon_screenshots/arkeoloji_recaizade_ekrem_bey_00066_p147_lower_line_8x.jpg",
+    "corpus/colophon_screenshots/arkeoloji_recaizade_ekrem_bey_00066_p147_namezone_9x.jpg",
+    "corpus/colophon_screenshots/arkeoloji_recaizade_ekrem_bey_00066_p147_word_A_12x.jpg",
+    "corpus/colophon_screenshots/arkeoloji_recaizade_ekrem_bey_00066_p147_word_B_12x.jpg"
+  ],
+  "colophon_page_number": 147,
+  "colophon_in_metadata": true,
+  "colophon_metadata_text": "على يد أضعف عبادالله و أحوجهم إلی فضل الله",
+  "different_scribe_name": "",
+  "verification_date": "2026-02-26",
+  "notes": "SESSION 3 (2026-02-26, colophon-verifier third pass): IIIF ID successfully extracted as 0000000664425 via IIIF page-existence probing (confirmed by p1 showing Bustan title and p146 matching existing screenshots). True total pages = 152 (not 150 as previously recorded — p150 = back endpaper/cover, p151-152 = marbled cover boards). COLOPHON PAGE CORRECTED: Previous sessions identified the colophon as IIIF p146 (viewer page 146). This session established that the previous session used viewer page numbers with a ~2-page offset from IIIF page numbers. The actual colophon is on IIIF p147, LEFT PAGE (folio 144v — the verso of the final text folio). The left page of IIIF p147 contains: (1) a single red-bordered poetry column whose last couplets are 'بضاعت نیاوردم الا امید / خدا باز عفوت مکن نا امید' — the closing lines of the Bustan; (2) below the column, a block of colophon text written in cursive nastaʿliq flowing diagonally from upper-right to lower-left. COLOPHON FORMULA: The phrase 'أضعف عباد[الله]' (the weakest of God's servants) is clearly readable at 5-12x magnification in multiple crops of this area. This matches the opening of Khandan's confirmed formula from arkeoloji_00153: 'على يد اضعف عباد الله الصمد المنان سلطان محمد الخندان'. NAME PORTION LOST TO PHYSICAL DAMAGE: The right margin of folio 144v (the portion of the folio closest to the outer edge, where the scribe name would appear in RTL writing order — preceding the humility formula) is physically torn and damaged. Zone C crops (x:1060-1310 in original) show only blank paper and damage artifacts — no legible text. The name that should follow the formula has been physically lost. This is confirmed by: (a) word C 12x crop showing only blank paper + torn edge; (b) 9x namezone crop showing the same; (c) the text visible in zone B (the surviving portion of the colophon) shows only the formula opening, not the name. STRUCTURE CONFIRMED: IIIF p143-147 = main Bustan text with dense marginal annotations; IIIF p148 left = blank flyleaf with embossed Türkiye Anıtlar Kurumu stamp, right = added Arabic prayers/hadiths (reader's additions); IIIF p149 right = more reader additions; IIIF p150 = back endpaper; IIIF p151 = front cover interior (marbled); IIIF p152 = back cover exterior. CONTEXTUAL EVIDENCE FOR KHANDAN (not image-confirmed): (1) Same institution as confirmed Khandan ms arkeoloji_00153; (2) Formula prefix 'أضعف عباد الله' matches Khandan's confirmed formula exactly (cf. arkeoloji_00153); (3) YEK metadata transcribes the full formula 'على يد أضعف عبادالله و أحوجهم إلی فضل الله'; (4) Bustan genre consistent with corpus (bayani_bustan_920, bonhams_bustan_956); (5) Nastaʿlīq script consistent with Khandan. VERDICT RATIONALE: 'inconclusive' maintained because the name portion of the colophon is physically lost to folio damage — not merely illegible due to resolution. No higher-resolution image or alternative approach can recover physically absent text. RECOMMENDATION: Contact Istanbul Arkeoloji Muzesi directly with a request for the colophon transcription. A physical examination of the folio may reveal whether the name portion was trimmed off during rebinding (in which case it may survive elsewhere) or whether it was always on the lost portion of the margin."
+}

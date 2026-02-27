@@ -1,0 +1,36 @@
+{
+  "yek_id": 706550,
+  "shelfmark": "00153",
+  "collection": "Arkeoloji Yazmalari",
+  "verdict": "colophon_confirmed",
+  "confidence": 0.95,
+  "confidence_breakdown": {
+    "resolution_quality": 1.0,
+    "colophon_coverage": 1.0,
+    "text_legibility": 0.9,
+    "limiting_factor": "damage"
+  },
+  "colophon_text_read": "قد وقع توفيق تنميق هذه الرسالة التي كانت الفاظها كبيره [ومعانيها كثيره] والمسمى بالهى نامه على يد اضعف عباد الله الصمد المنان سلطان محمد الخندان غفر ذنوبه وستر عيوبه",
+  "signature_formula_found": "على يد اضعف عباد الله الصمد المنان سلطان محمد الخندان",
+  "name_in_colophon": "سلطان محمد الخندان",
+  "date_in_colophon": "",
+  "date_ah_read": "",
+  "date_ce_computed": "",
+  "place_in_colophon": "",
+  "internal_iiif_id": "0000000665118",
+  "total_pages": 16,
+  "pages_examined": [11, 12, 14],
+  "screenshots_saved": [
+    "corpus/colophon_screenshots/arkeoloji_00153_p011_iiif.png",
+    "corpus/colophon_screenshots/arkeoloji_00153_p011_colophon_zoom_iiif.png",
+    "corpus/colophon_screenshots/arkeoloji_00153_p011_colophon_mid_iiif.png",
+    "corpus/colophon_screenshots/arkeoloji_00153_p012_iiif.png",
+    "corpus/colophon_screenshots/arkeoloji_00153_p014_iiif.png"
+  ],
+  "colophon_page_number": 11,
+  "colophon_in_metadata": true,
+  "colophon_metadata_text": "قد وقع توفيق تنميق هذه الرسالة التي كانت ألفاظها كبيرة معانيها كثيرة والمسمى بإلهي نامه على يد أضعف عباد الله الصمد المنان سلطان محمد الخندان غفر ذنوبه وستر عيوبه",
+  "different_scribe_name": "",
+  "verification_date": "2026-02-25",
+  "notes": "Colophon on folio 10a (digitized page 11). Name 'sultan muhammad al-khandan' clearly legible in large nastaaliq at bottom of colophon triangle. No date given in colophon. Text matches metadata transcription closely. Folio 11 (page 12) shows continuation with additional notes in different hand. Pages 14-16 are marbled endpapers."
+}

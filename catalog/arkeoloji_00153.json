@@ -1,0 +1,53 @@
+{
+  "record_id": "arkeoloji_00153",
+  "yek_id": 706550,
+  "yek_url": "https://portal.yek.gov.tr/works/detail/706550",
+  "collection": {
+    "institution": "İstanbul Arkeoloji Müzeleri Yazmaları",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "shelfmark": "Arkeoloji 00153"
+  },
+  "manuscript": {
+    "title": "İlâhînâme",
+    "title_arabic": "إلهي نامه",
+    "author": "Hâce Abdullah el-Herevî (Khwāja ʿAbdullāh al-Anṣārī)",
+    "author_arabic": "أبو إسماعيل عبد الله بن محمد بن علي الهروي الأنصاري",
+    "date_ah": "",
+    "date_ce": "",
+    "script_type": "taʿlīq",
+    "language": "Persian",
+    "folio_count": 10,
+    "dimensions_mm": "250x190"
+  },
+  "attribution": {
+    "calligrapher": "Sultan Muhammad Khandan",
+    "calligrapher_arabic": "سلطان محمد خندان",
+    "calligrapher_laqab": "خندان",
+    "evidence_type": "colophon",
+    "colophon_verdict": {
+      "verdict": "colophon_confirmed",
+      "confidence": 0.95,
+      "colophon_page_number": 11,
+      "colophon_text_read": "قد وقع توفيق تنميق هذه الرسالة التي كانت الفاظها كبيره [ومعانيها كثيره] والمسمى بالهى نامه على يد اضعف عباد الله الصمد المنان سلطان محمد الخندان غفر ذنوبه وستر عيوبه",
+      "signature_formula_found": "على يد اضعف عباد الله الصمد المنان سلطان محمد الخندان",
+      "name_in_colophon": "سلطان محمد الخندان",
+      "date_ah_read": "",
+      "date_ce_computed": "",
+      "place_in_colophon": "",
+      "internal_iiif_id": "0000000665118",
+      "total_pages": 16,
+      "verification_date": "2026-02-25",
+      "verdict_file": "catalog/arkeoloji_00153_verdict.json"
+    },
+    "nusha_ilgili_kisiler_text": "Müstensih, Sultan Muhammed Handan, سلطان محمد الخندان.",
+    "muhurler_ve_kayitlar_text": "قد وقع توفيق تنميق هذه الرسالة التي كانت ألفاظها كبيرة معانيها كثيرة والمسمى بإلهي نامه على يد أضعف عباد الله الصمد المنان سلطان محمد الخندان غفر ذنوبه وستر عيوبه"
+  },
+  "search_metadata": {
+    "found_via_term": "سلطان محمد خندان",
+    "found_via_field": "Nüshayla ilgili kişiler",
+    "search_date": "2026-02-25",
+    "search_session_file": "catalog/searches/search_2026-02-25_session1.json"
+  },
+  "notes": "Confirmed Khandan manuscript. Colophon on folio 10a (digitized page 11) clearly readable at IIIF 1600px. Name form in colophon: 'سلطان محمد الخندان' (with definite article al-). No date or place in colophon. Munajat-genre Persian mystical poem. 9 lines/page. Tezhip (illumination) throughout. Catalogued by Zeynep Özçelik. The colophon text is also transcribed verbatim in the YEK İstinsah kaydı (Arap harfli) field."
+}

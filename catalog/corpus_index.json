@@ -1,0 +1,112 @@
+{
+  "last_updated": "2026-02-26",
+  "total_manuscripts": 3,
+  "world_corpus_file": "catalog/world_corpus.json",
+  "notes": "YEK pipeline record — covers only manuscripts found via YEK portal (Sessions 1–4, 2026-02-25/26). For the full global corpus including auction lots, museum records, and bibliographic references, see catalog/world_corpus.json (30 entries). YEK portal exhaustively searched across 4 sessions, all 5 term tiers × all relevant fields. No further genuine attributions found in YEK beyond these 2 records.",
+  "manuscripts": [
+    {
+      "record_id": "arkeoloji_00153",
+      "yek_id": 706550,
+      "shelfmark": "Arkeoloji 00153",
+      "collection": "İstanbul Arkeoloji Müzeleri Yazmaları",
+      "title": "İlâhînâme",
+      "date_ah": "",
+      "script_type": "taʿlīq",
+      "has_digital_images": true,
+      "colophon_verdict": "colophon_confirmed",
+      "confidence": 0.95,
+      "pipeline_stage": "confirmed",
+      "search_date": "2026-02-25",
+      "record_file": "catalog/arkeoloji_00153.json",
+      "verdict_file": "catalog/arkeoloji_00153_verdict.json"
+    },
+    {
+      "record_id": "tiem_01942",
+      "yek_id": 704748,
+      "shelfmark": "TIEM 01942",
+      "collection": "TİEM Yazma Eser Koleksiyonu",
+      "title": "Dîvân-ı Sultân Hüseyin Baykara",
+      "date_ah": "",
+      "script_type": "nastaʿlīq",
+      "has_digital_images": true,
+      "colophon_verdict": "colophon_not_found",
+      "confidence": null,
+      "pipeline_stage": "colophon_verified",
+      "search_date": "2026-02-25",
+      "record_file": null,
+      "verdict_file": "catalog/tiem_01942_verdict.json",
+      "notes": "Attribution rests on YEK cataloguer entry in Nüshayla ilgili kişiler only. No scribal colophon found in digitized copy (64 pages examined). No ManuscriptRecord created pending further evidence."
+    },
+    {
+      "record_id": "yek_705856_candidate",
+      "yek_id": 705856,
+      "shelfmark": "Recaizade Ekrem Bey 00066",
+      "collection": "İstanbul Arkeoloji Müzeleri Yazmaları",
+      "title": "Bustān (Saʿdī)",
+      "date_ah": "",
+      "script_type": "nastaʿlīq",
+      "has_digital_images": true,
+      "colophon_verdict": "inconclusive",
+      "confidence": 0.38,
+      "pipeline_stage": "colophon_verification",
+      "search_date": "2026-02-26",
+      "verdict_file": "catalog/yek_705856_verdict.json",
+      "notes": "Three colophon-verifier passes (2026-02-26). IIIF ID confirmed: 0000000664425. True total: 152 pages. Colophon on IIIF p147 left (folio 144v). Formula 'أضعف عبادالله' legible. Scribe name portion physically lost to folio damage at right margin. No further digital resolution possible. Direct contact with Istanbul Arkeoloji Muzesi recommended."
+    }
+  ],
+  "examined_false_positives": [
+    {
+      "yek_id": 704952,
+      "shelfmark": "TIEM 01992-002",
+      "collection": "TİEM Yazma Eser Koleksiyonu",
+      "title": "İlâhînâme (Attar)",
+      "reason": "Option 4 candidate — author-only colophon, no scribe named",
+      "verdict_file": "catalog/tiem_01992-002_verdict.json"
+    },
+    {
+      "yek_id": 705096,
+      "shelfmark": "TIEM 02044-014",
+      "collection": "TİEM Yazma Eser Koleksiyonu",
+      "title": "İlâhînâme (Attar) — text #14 in composite codex",
+      "reason": "Option 4 candidate — author attribution and hamdala, no scribe named",
+      "verdict_file": "catalog/tiem_02044-014_verdict.json"
+    },
+    {
+      "yek_id": 188796,
+      "shelfmark": "Esad Efendi 03472",
+      "collection": "Süleymaniye Kütüphanesi",
+      "title": "Fevāʾid Mecmūʿası",
+      "reason": "Option 4 — misidentified as Dīwān; خندان is adjectival in a hadith",
+      "verdict_file": "catalog/esad_efendi_03472_verdict.json"
+    },
+    {
+      "yek_id": 181978,
+      "shelfmark": "Ali Nihat Tarlan 00117",
+      "collection": "Süleymaniye Kütüphanesi",
+      "title": "Dīwān-i Shevket (Shevket-i Bukhārī, d. 1107/1695)",
+      "reason": "Option 4 — wrong divan; خندان is adjectival in a ghazal couplet",
+      "verdict_file": "catalog/ali_nihat_tarlan_00117_verdict.json"
+    },
+    {
+      "yek_id": 143215,
+      "shelfmark": "Süleymaniye 00143",
+      "collection": "Süleymaniye Kütüphanesi",
+      "title": "Gharāʾib al-Qurʾān",
+      "reason": "Khandanzāde — copyist is Ahmad b. al-Ḥājj Muḥammad al-Khandanzāde, 1160 AH"
+    },
+    {
+      "yek_id": 237149,
+      "shelfmark": "Erzincan 00013",
+      "collection": "Süleymaniye Kütüphanesi (Erzincan)",
+      "title": "Risāletü'l-Besmele",
+      "reason": "Khandanzāde — copyist is Şeyh Ali b. İbrahim el-Erzincanī al-Khandanzāde, 1224 AH"
+    },
+    {
+      "yek_id": 707146,
+      "shelfmark": "Arkeoloji 00627",
+      "collection": "İstanbul Arkeoloji Müzeleri Yazmaları",
+      "title": "et-Telviḥ",
+      "reason": "Khandanzāde — one of two copyists is Kādī Ahmed Efendi al-Khandanzāde, 1169 AH"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "yek_id": 188796,
+  "shelfmark": "03472",
+  "collection": "Esad Efendi",
+  "verdict": "colophon_not_found",
+  "confidence": 0.95,
+  "confidence_breakdown": {
+    "resolution_quality": 0.0,
+    "colophon_coverage": 0.0,
+    "text_legibility": 0.0,
+    "limiting_factor": "inherent_uncertainty"
+  },
+  "colophon_text_read": "",
+  "signature_formula_found": "",
+  "name_in_colophon": "",
+  "date_in_colophon": "",
+  "date_ah_read": "",
+  "date_ce_computed": "",
+  "place_in_colophon": "",
+  "internal_iiif_id": "",
+  "total_pages": 0,
+  "pages_examined": [],
+  "screenshots_saved": [],
+  "colophon_page_number": 0,
+  "colophon_in_metadata": false,
+  "colophon_metadata_text": "",
+  "different_scribe_name": "",
+  "verification_date": "2026-02-25",
+  "notes": "FALSE POSITIVE. This is NOT a Divan-i Sultan Huseyin Baykara. It is a Fevaid Mecmuasi (miscellany/commonplace book) containing excerpts from many poets (Fuzuli, Jami, Nevi, Attar, etc.). The word 'khandan' appears in the bitish satirlari as a common Persian adjective meaning 'smiling/laughing' in a famous hadith: 'Do you know that when you were born, everyone was khandan and you were crying...' This is an adjectival use, NOT a calligrapher's name or laqab. No copyist is attributed. The manuscript is a compilation of various fawaid (useful notes), manzumat (poems), and iqtibas (excerpts) by multiple hands. Colophon examination not performed as this is clearly unrelated to Sultan Muhammad Khandan."
+}

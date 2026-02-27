@@ -1,0 +1,1760 @@
+{
+  "last_updated": "2026-02-26",
+  "schema_version": "1.0",
+  "calligrapher": "Sultan Muhammad Khandan (سلطان محمد خندان)",
+  "calligrapher_laqab": "خندان",
+  "activity_range_ah": "915–992",
+  "activity_range_ce": "1509–1584",
+  "total_entries": 43,
+  "by_confidence": {
+    "confirmed": 1,
+    "attributed": 12,
+    "catalogued": 26,
+    "unverified": 4,
+    "pending_verification": 0
+  },
+  "notes": "Sorted by date_ah ascending (original 16 entries); later entries appended in discovery order. Undated manuscripts placed at end. Confidence levels: confirmed = colophon visually verified by this project; attributed = signed colophon documented in a primary published source; catalogued = listed in a scholarly catalog without our independent verification; unverified = secondary mention only. YEK portal exhaustively searched (4 sessions, 2026-02-25/26). FIHRIST searches completed 2026-02-26. PDF gap analysis completed 2026-02-26. Online catalog sweep completed 2026-02-26: FIHRIST person_f4139 (no new items), baysunghur.org article (Saadati 2021, ~29 items cross-referenced), Chester Beatty Library catalog Vol. II (2 new items: Per 183, Per 184), Bonhams lot 27 (enriched), Gulbenkian online catalog (LA159 confirmed), Freer Gallery F1937.22 and F1944.48 (enriched). Total: 43 entries.",
+  "entries": [
+    {
+      "record_id": "private_tehran_yusuf_915",
+      "text": {
+        "title": "Yūsuf va Zulaykha",
+        "title_arabic": "یوسف و زلیخا",
+        "author": "Nūr al-Dīn ʿAbd al-Raḥmān Jāmī",
+        "author_arabic": "نور الدين عبد الرحمن جامي",
+        "genre": "masnavi"
+      },
+      "manuscript": {
+        "date_ah": "915",
+        "date_ce": "1509–10",
+        "date_notes": "Dated by colophon",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "Private collection",
+        "city": "Tehran",
+        "country": "Iran",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": ""
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "bibliography",
+        "source_citation": "Bayani, Mahdī. Aḥwāl va Āsār-i Khwushnivīsān. Vol. I. Tehran, 1345 sh [1966], pp. 268–271; also cited in baysunghur.org/?p=1821",
+        "colophon_text": "",
+        "signature_formula": "",
+        "our_verification": ""
+      },
+      "yek_data": null,
+      "status": "awaiting_access",
+      "further_action": "Access to Iranian private collections requires direct institutional contact. Consider FNKhA / Dirāyatī catalog search.",
+      "notes": "Earliest known dated Khandan manuscript. Location current as of Bayani (1966); may have changed hands."
+    },
+    {
+      "record_id": "bayani_bustan_920",
+      "text": {
+        "title": "Bustān",
+        "title_arabic": "بوستان",
+        "author": "Muṣliḥ al-Dīn Saʿdī Shīrāzī",
+        "author_arabic": "مصلح الدين سعدي شيرازي",
+        "genre": "masnavi"
+      },
+      "manuscript": {
+        "date_ah": "920",
+        "date_ce": "1514–15",
+        "date_notes": "Dated by colophon",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "Bayani private collection",
+        "city": "Tehran",
+        "country": "Iran",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": ""
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "bibliography",
+        "source_citation": "Bayani, Mahdī. Aḥwāl va Āsār-i Khwushnivīsān. Vol. I. Tehran, 1345 sh [1966], pp. 268–271",
+        "colophon_text": "",
+        "signature_formula": "كتبه سلطان محمد خندان",
+        "our_verification": ""
+      },
+      "yek_data": null,
+      "status": "awaiting_access",
+      "further_action": "Bayani collection location after 1966 unknown. May now be in an Iranian public collection.",
+      "notes": "Signature formula reported in Bayani as 'written by Sultan Muhammad Khandan'."
+    },
+    {
+      "record_id": "bl_hafiz_921",
+      "text": {
+        "title": "Dīwān-i Ḥāfiẓ",
+        "title_arabic": "دیوان حافظ",
+        "author": "Shams al-Dīn Muḥammad Ḥāfiẓ Shīrāzī",
+        "author_arabic": "شمس الدين محمد حافظ شيرازي",
+        "genre": "divan"
+      },
+      "manuscript": {
+        "date_ah": "921",
+        "date_ce": "1515",
+        "date_notes": "Reported in secondary source; NOT confirmed by FIHRIST search",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "British Library (reported — NOT confirmed)",
+        "city": "London",
+        "country": "United Kingdom",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": "https://www.fihrist.org.uk/"
+      },
+      "attribution": {
+        "confidence_level": "unverified",
+        "source_type": "bibliography",
+        "source_citation": "baysunghur.org/?p=1821, citing Bayani",
+        "colophon_text": "",
+        "signature_formula": "",
+        "our_verification": "FIHRIST searched 2026-02-26: no BL Hafiz divan attributed to Khandan at any date found. The only BL manuscript by Khandan dated 921 AH is Add. 7753 (Qiran al-Sadayn). A Hafiz divan by Khandan is at Rylands Library (Manchester), dated 937 AH (Persian MS 842). This entry is likely a bibliographic error."
+      },
+      "yek_data": null,
+      "status": "insufficient_data",
+      "further_action": "Source (Bayani via baysunghur.org) likely misidentified institution or date. Probable correct record: Rylands Persian MS 842 (Hafiz, 937 AH). Consider merging or deleting this entry.",
+      "notes": "LIKELY BIBLIOGRAPHIC ERROR. FIHRIST search found no BL Hafiz 921 AH by Khandan. The only confirmed 921 AH BL Khandan manuscript is Qiran al-Sadayn (Add. 7753). Hafiz divan by Khandan is at Rylands (Manchester), 937 AH. SOURCED: baysunghur.org (Saadati 2021) confirms this entry originates from Bayani, who places a Hafiz divan with date 921 AH at 'the British Museum in London'. See rylands_hafiz_937 for the confirmed Rylands copy."
+    },
+    {
+      "record_id": "bl_qiran_921",
+      "text": {
+        "title": "Qirān al-Saʿdayn",
+        "title_arabic": "قران السعدين",
+        "author": "Amīr Khusraw Dihlawī",
+        "author_arabic": "امير خسرو دهلوي",
+        "genre": "masnavi"
+      },
+      "manuscript": {
+        "date_ah": "921",
+        "date_ce": "1515",
+        "date_notes": "Dated by colophon; same year as bl_hafiz_921 — possibly copied as a pair",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "British Library",
+        "city": "London",
+        "country": "United Kingdom",
+        "shelfmark": "Add. 7753",
+        "current_holder_confirmed": true,
+        "external_url": "https://www.bl.uk/manuscripts/FullDisplay.aspx?ref=Add_MS_7753"
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "bibliography",
+        "source_citation": "BL Add. 7753; documented in BL blog; baysunghur.org/?p=1821, citing Bayani",
+        "colophon_text": "",
+        "signature_formula": "",
+        "our_verification": "Shelfmark Add. 7753 confirmed via BL sources and secondary literature, 2026-02-26. Not yet in FIHRIST."
+      },
+      "yek_data": null,
+      "status": "complete",
+      "further_action": "",
+      "notes": "Shelfmark confirmed: BL Add. 7753. Copied at Herat, 921 AH / 1515 CE. Same year as the sothebys_2018_lot58 Layla wa Majnun — possibly part of the same commission or copying programme. Not yet catalogued in FIHRIST as of 2026-02-26."
+    },
+    {
+      "record_id": "sothebys_2018_lot58",
+      "text": {
+        "title": "Laylī va Majnūn",
+        "title_arabic": "لیلی و مجنون",
+        "author": "Nūr al-Dīn ʿAbd al-Raḥmān Jāmī",
+        "author_arabic": "نور الدين عبد الرحمن جامي",
+        "genre": "masnavi"
+      },
+      "manuscript": {
+        "date_ah": "921",
+        "date_ce": "1515",
+        "date_notes": "Dated by colophon in gold nastaʿlīq within cloud formations",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": 125,
+        "dimensions_mm": "206x124",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "Sold at auction; buyer unknown",
+        "city": "",
+        "country": "",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": "https://www.sothebys.com/en/auctions/ecatalogue/2018/arts-of-the-islamic-world-l18223/lot.58.html"
+      },
+      "attribution": {
+        "confidence_level": "attributed",
+        "source_type": "auction_catalog",
+        "source_citation": "Sotheby's London, Arts of the Islamic World, 19 April 2018, lot 58",
+        "colophon_text": "",
+        "signature_formula": "",
+        "our_verification": "Auction catalog lot text and description retrieved 2026-02-26"
+      },
+      "yek_data": null,
+      "status": "insufficient_data",
+      "further_action": "If buyer is a Turkish institution, check YEK or yazmalar.gov.tr. Buyer identity unknown.",
+      "notes": "125 ff. + 4 fly-leaves; 15 lines/page in 2 columns; gold-stamped leather binding. Comparanda cited in lot: Harvard Art Museums inv. 1985.263; Topkapi H.2356; Sotheby's Paris 22 Oct 2015 lot 9; Bonhams London 13 Oct 2005 lot 27; Christie's London 7 Oct 2008 lot 305; Christie's London 13 Apr 2010 lot 174."
+    },
+    {
+      "record_id": "roseberys_2020_layla_921",
+      "text": {
+        "title": "Laylī wa Majnūn",
+        "title_arabic": "لیلی و مجنون",
+        "author": "Nūr al-Dīn ʿAbd al-Raḥmān Jāmī",
+        "author_arabic": "نور الدين عبد الرحمن جامي",
+        "genre": "masnavi"
+      },
+      "manuscript": {
+        "date_ah": "921",
+        "date_ce": "1515",
+        "date_notes": "Colophon dated beginning of Rabīʿ I AH 921 / April 1515 AD. Note: Roseberys lot title misprints '1505' — body text gives correct date 1515.",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": null,
+        "dimensions_mm": "219 × 126",
+        "place_of_copying": "Safavid Iran or Afghanistan"
+      },
+      "holding": {
+        "institution": "Sold at auction; buyer unknown",
+        "city": "London (sale)",
+        "country": "United Kingdom",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": "https://www.roseberys.co.uk/a0461-lot-490823"
+      },
+      "attribution": {
+        "confidence_level": "attributed",
+        "source_type": "auction_catalog",
+        "source_citation": "Roseberys London, Islamic & Indian Art, 23 Oct 2020, lot 13. Price realised: £4,680 (est. £2,000–3,000).",
+        "colophon_text": "Colophon giving the name Sultan Muhammad Khandan and the date beginning of Rabīʿ I AH 921",
+        "signature_formula": "Sultan Muhammad Khandan + date AH 921",
+        "our_verification": ""
+      },
+      "yek_data": null,
+      "status": "complete",
+      "further_action": "",
+      "notes": "Second copy of Jami Layla wa Majnun by Khandan with same date (AH 921) as Sotheby's 2018 lot 58 — two distinct manuscripts. Roseberys 2021 lot 101 catalogue note cross-references: 'Another manuscript copied by Sultan Muhammad Khandan and dated to the same period was sold in these rooms, 23 October 2020, lot 13.' 15ll. black nastaliq in 2 columns; flowers between columns; opening bifolio with cloudbands on red ground; owner's seal impressions; brown morocco binding."
+    },
+    {
+      "record_id": "private_paris_yusuf_923",
+      "text": {
+        "title": "Yūsuf va Zulaykha",
+        "title_arabic": "یوسف و زلیخا",
+        "author": "Nūr al-Dīn ʿAbd al-Raḥmān Jāmī",
+        "author_arabic": "نور الدين عبد الرحمن جامي",
+        "genre": "masnavi"
+      },
+      "manuscript": {
+        "date_ah": "923",
+        "date_ce": "1517",
+        "date_notes": "Dated by colophon",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "Private collection",
+        "city": "Paris",
+        "country": "France",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": ""
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "bibliography",
+        "source_citation": "baysunghur.org/?p=1821, citing Bayani. Colophon: 'written by humble Khandan in 923'",
+        "colophon_text": "",
+        "signature_formula": "كتبه الفقير خندان في سنة ٩٢٣",
+        "our_verification": ""
+      },
+      "yek_data": null,
+      "status": "awaiting_access",
+      "further_action": "French private collection — inaccessible without direct contact. May appear in future auction.",
+      "notes": "Colophon formula 'written by humble Khandan in 923' reported in baysunghur.org."
+    },
+    {
+      "record_id": "kabul_hafiz_926",
+      "text": {
+        "title": "Dīwān-i Ḥāfiẓ",
+        "title_arabic": "دیوان حافظ",
+        "author": "Shams al-Dīn Muḥammad Ḥāfiẓ Shīrāzī",
+        "author_arabic": "شمس الدين محمد حافظ شيرازي",
+        "genre": "divan"
+      },
+      "manuscript": {
+        "date_ah": "926",
+        "date_ce": "1519–20",
+        "date_notes": "Dated by colophon; 'early spring 926 AH'",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "Kabul National Archive (Kitābkhāna-yi Millī)",
+        "city": "Kabul",
+        "country": "Afghanistan",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": ""
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "bibliography",
+        "source_citation": "baysunghur.org/?p=1821, citing Bayani",
+        "colophon_text": "",
+        "signature_formula": "",
+        "our_verification": ""
+      },
+      "yek_data": null,
+      "status": "awaiting_access",
+      "further_action": "Afghan national archives — inaccessible. Survival uncertain given decades of conflict.",
+      "notes": "Status of the Kabul National Archive collection is uncertain due to political instability."
+    },
+    {
+      "record_id": "christies_subhat_930",
+      "text": {
+        "title": "Subḥat al-Abrār",
+        "title_arabic": "سبحة الأبرار",
+        "author": "Nūr al-Dīn ʿAbd al-Raḥmān Jāmī",
+        "author_arabic": "نور الدين عبد الرحمن جامي",
+        "genre": "masnavi"
+      },
+      "manuscript": {
+        "date_ah": "930",
+        "date_ce": "1523–24",
+        "date_notes": "Dated and signed by Khandan in colophon",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": 224,
+        "dimensions_mm": "242x138",
+        "place_of_copying": "Herat"
+      },
+      "holding": {
+        "institution": "Sold at auction; buyer unknown",
+        "city": "",
+        "country": "",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": "https://www.christies.com/en/lot/lot-5125432"
+      },
+      "attribution": {
+        "confidence_level": "attributed",
+        "source_type": "auction_catalog",
+        "source_citation": "Christie's London, Islamic Manuscripts, lot 5125432.",
+        "colophon_text": "مشقه العبد سلطان محمد خندان فی سنه الثلاثین و تسعمائه الهجریه",
+        "signature_formula": "مشقه العبد سلطان محمد خندان",
+        "our_verification": "Christie's lot description retrieved 2026-02-26"
+      },
+      "yek_data": null,
+      "status": "insufficient_data",
+      "further_action": "Christie's catalog cites Karatay 1961 nos. 777 and 787 as Topkapi comparanda — check yazmalar.gov.tr for those records. Buyer unknown.",
+      "notes": "224 ff. + 4 fly-leaves; 14 lines/page; two columns; gold intercolumnar rules; ivory paper. Place of copying Herat stated. Karatay 1961 nos. 777 and 787 cited as comparable Topkapi copies. NOTE: baysunghur.org (Saadati 2021) separately lists a Subhat al-Abrar 930 AH in the collection of Jafar Sultani al-Qurani, Tehran, with same raqm. This may be the same manuscript before auction, or a distinct copy."
+    },
+    {
+      "record_id": "freer_muntakhab_930",
+      "text": {
+        "title": "Anthology (Rumi, Niẓāmī, Saʿdī, Sanāʾī)",
+        "title_arabic": "منتخب مثنوی",
+        "author": "Selections from Rumi (Masnavi), Nizami (Khamsa), Saʿdi (Bustan), Sanaʾi (Hadiqa)",
+        "author_arabic": "",
+        "genre": "anthology / masnavi selections"
+      },
+      "manuscript": {
+        "date_ah": "930",
+        "date_ce": "1523–24",
+        "date_notes": "Colophon on f. 28r: 'written by poor slave Ali al-Husayni ... in year 930 in the city of Herat'; another colophon on f. 54r signed by Muhammad Qasim b. Shadishah",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": 69,
+        "dimensions_mm": "250x175",
+        "place_of_copying": "Herat"
+      },
+      "holding": {
+        "institution": "Freer Gallery of Art, Smithsonian Institution",
+        "city": "Washington DC",
+        "country": "United States",
+        "shelfmark": "F1944.48",
+        "current_holder_confirmed": true,
+        "external_url": "https://asia.si.edu/object/F1944.48/"
+      },
+      "attribution": {
+        "confidence_level": "attributed",
+        "source_type": "museum_catalog",
+        "source_citation": "Freer Gallery of Art accession F1944.48; Smithsonian online record",
+        "colophon_text": "Folio inscription f. 3r: 'selection from Sanaʾi's Hadiqa written by Sultan Muhammad Khandan'",
+        "signature_formula": "كتبه سلطان محمد خندان",
+        "our_verification": "Smithsonian online record retrieved 2026-02-26. Accession number F1944.48 confirmed (distinct from F1937.22 which is the calligraphy panel). Khandan copied ONLY the Sanaʾi section (Hadiqat al-haqiqat). Other sections: Rumi by Mir ʿAli Husayni; Nizami by Sultan Muhammad Nur; Saʿdi by Muhammad Qasim b. Shadishah. Painting by Bihzad."
+      },
+      "yek_data": null,
+      "status": "complete",
+      "further_action": "",
+      "notes": "COLLABORATIVE MANUSCRIPT. Khandan copied only the Sanaʾi (Hadiqat al-haqiqat) section — NOT the full anthology. 69 folios + 1 flyleaf. 4 columns, 21 lines/page. 1 shamsa, 4 sarlawh, 6 gold stenciled folios, 1 Bihzad painting. Purchased Freer 1944. Same year (930 AH) as christies_subhat_930."
+    },
+    {
+      "record_id": "stpetersburg_navai_935",
+      "text": {
+        "title": "Dīwān (Navaʾī)",
+        "title_arabic": "دیوان نوایی",
+        "author": "ʿAlī Shīr Navaʾī",
+        "author_arabic": "علي شير نوائي",
+        "genre": "divan"
+      },
+      "manuscript": {
+        "date_ah": "935",
+        "date_ce": "1528–29",
+        "date_notes": "Dated by colophon",
+        "script_type": "nastaʿlīq",
+        "language": "Chagatay Turkish",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "Russian National Library (RNL) or Institute of Oriental Manuscripts (IOM RAS)",
+        "city": "St. Petersburg",
+        "country": "Russia",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": ""
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "bibliography",
+        "source_citation": "baysunghur.org/?p=1821, citing Bayani",
+        "colophon_text": "",
+        "signature_formula": "",
+        "our_verification": ""
+      },
+      "yek_data": null,
+      "status": "awaiting_access",
+      "further_action": "Precise institution (RNL vs IOM RAS) unconfirmed. Russian oriental manuscript catalogs not online in accessible form.",
+      "notes": "Navaʾī was Khandan's early patron; this is the only confirmed Chagatay Turkish manuscript in the corpus besides tiem_01942."
+    },
+    {
+      "record_id": "bonhams_bustan_956",
+      "text": {
+        "title": "Bustān",
+        "title_arabic": "بوستان",
+        "author": "Muṣliḥ al-Dīn Saʿdī Shīrāzī",
+        "author_arabic": "مصلح الدين سعدي شيرازي",
+        "genre": "masnavi"
+      },
+      "manuscript": {
+        "date_ah": "956",
+        "date_ce": "1549",
+        "date_notes": "Dated by colophon",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": 162,
+        "dimensions_mm": "278x189",
+        "place_of_copying": "Bukhara, probably Herat"
+      },
+      "holding": {
+        "institution": "Sold at auction; buyer unknown",
+        "city": "",
+        "country": "",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": "https://www.bonhams.com/auction/13151/lot/27/"
+      },
+      "attribution": {
+        "confidence_level": "attributed",
+        "source_type": "auction_catalog",
+        "source_citation": "Bonhams London, 13 October 2005, lot 27. Full catalog entry retrieved 2026-02-26.",
+        "colophon_text": "Signed in verse on folio 160b by Sultan Muhammad Khandan.",
+        "signature_formula": "",
+        "our_verification": "Bonhams lot record scraped 2026-02-26. 162 leaves, 14 lines, 278x189 mm. 5 miniatures in Bukhara style. Provenance traces through Safavid and Mughal royal libraries."
+      },
+      "yek_data": null,
+      "status": "complete",
+      "further_action": "",
+      "notes": "Sold for GBP 45,600 inc. premium. PROVENANCE: (1) library inscription f.2a names Sultan Muhammad Khandan as scribe; (2) Shah Abbas I Safavid royal library (r. 995-1038/1587-1629); (3) Mughal royal library, probably Shah Jahan (r. 1037-1068/1628-57); (4) Shah Alam II inspected in 17th regnal year (1190/1770). Bayani dates Khandan activity 915-957 AH, making this one of his last works. One double-page + four full-page miniatures in Bukhara style. A second Bustan in the corpus alongside bayani_bustan_920 and chester_beatty_bustan_916."
+    },
+    {
+      "record_id": "gulbenkian_subhat_972",
+      "text": {
+        "title": "Subḥat al-Abrār",
+        "title_arabic": "سبحة الأبرار",
+        "author": "Nūr al-Dīn ʿAbd al-Raḥmān Jāmī",
+        "author_arabic": "نور الدين عبد الرحمن جامي",
+        "genre": "masnavi"
+      },
+      "manuscript": {
+        "date_ah": "972",
+        "date_ce": "1564",
+        "date_notes": "Dated by colophon",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": "Mashhad"
+      },
+      "holding": {
+        "institution": "Fundação Calouste Gulbenkian",
+        "city": "Lisbon",
+        "country": "Portugal",
+        "shelfmark": "LA159",
+        "current_holder_confirmed": true,
+        "external_url": "https://gulbenkian.pt/museu/en/works/subhat-al-abrar-the-rosary-of-the-pious/"
+      },
+      "attribution": {
+        "confidence_level": "attributed",
+        "source_type": "bibliography",
+        "source_citation": "Gulbenkian Museum online catalog (accessed 2026-02-26); also cited in secondary literature and Marianna Shreve Simpson Islamic Manuscript Record Archive (Work Record ID 569804)",
+        "colophon_text": "",
+        "signature_formula": "",
+        "our_verification": "Shelfmark LA159 CONFIRMED via Gulbenkian Museum online catalog, 2026-02-26. Calligrapher explicitly listed as 'Sultao Muhammad Khandan'. Painter: Abdullah al-Shirazi. Origin: Mashhad. NOTE: website date '1482-1483' is composition date of the poem, NOT copying date (972 AH / 1564 CE from secondary literature)."
+      },
+      "yek_data": null,
+      "status": "complete",
+      "further_action": "",
+      "notes": "LATEST KNOWN DATED KHANDAN COPY - 972 AH / 1564 CE. Shelfmark LA159 confirmed. Origin: Mashhad. Illuminated by Abdullah al-Shirazi (full name from Gulbenkian catalog). Extends confirmed Khandan activity to within 20 years of Bayani's outer limit of 992 AH. Neighboring shelfmark: Baharistan = LA 169."
+    },
+    {
+      "record_id": "freer_F1937_22",
+      "text": {
+        "title": "Album leaf: Fettered Camel and Keeper (recto); Calligraphy panel (verso)",
+        "title_arabic": "",
+        "author": "Bihzad (painting, recto); Sultan Muhammad Khandan (calligraphy, verso); Baba al-Mudhahhib (gilding)",
+        "author_arabic": "بهزاد (رسم)؛ سلطان محمد خندان (خط)؛ بابا المذهب (تذهیب)",
+        "genre": "album leaf / calligraphy panel"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "c. 1510–1550",
+        "date_notes": "Freer record gives 'Late 15th century' — inconsistent with Khandan's confirmed activity from 915 AH/1509; likely an approximate dating. Adjusted to c. 1510–1550.",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": 1,
+        "dimensions_mm": "115x145",
+        "place_of_copying": "Herat"
+      },
+      "holding": {
+        "institution": "Freer Gallery of Art, Smithsonian Institution",
+        "city": "Washington DC",
+        "country": "United States",
+        "shelfmark": "F1937.22",
+        "current_holder_confirmed": true,
+        "external_url": "https://asia-archive.si.edu/object/F1937.22/"
+      },
+      "attribution": {
+        "confidence_level": "attributed",
+        "source_type": "museum_catalog",
+        "source_citation": "Smithsonian / National Museum of Asian Art object record F1937.22",
+        "colophon_text": "",
+        "signature_formula": "العبد سلطان محمد خندان، حرره بابا المذهب",
+        "our_verification": "Freer Gallery online record scraped 2026-02-26. Title corrected from 'blessing formula' to 'Fettered Camel and Keeper'. Gilder confirmed as Baba al-Mudhahhib, NOT Hashim Mudhahhib (that is LACMA 1982.120.4)."
+      },
+      "yek_data": null,
+      "status": "complete",
+      "further_action": "",
+      "notes": "Double-sided album leaf: recto = painting attributed to Bihzad (fettered camel and keeper); verso = calligraphy panel by Khandan. Gilding by Baba al-Mudhahhib. Inscription: 'The slave Sultan-Muhammad Khandan, outlined by Baba the Gilder'. Provenance: Armenag Bey Sakisian → H. Kevorkian → Freer Gallery 1937."
+    },
+    {
+      "record_id": "cleveland_1983_1115",
+      "text": {
+        "title": "Persian Quatrains and Calligraphic Exercises",
+        "title_arabic": "رباعیات و مشق",
+        "author": "Anonymous",
+        "author_arabic": "",
+        "genre": "album leaf / calligraphy panel"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "c. 1509–59",
+        "date_notes": "Cleveland Museum dates c. 1509–59 CE",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": 1,
+        "dimensions_mm": "274x200",
+        "place_of_copying": "Herat"
+      },
+      "holding": {
+        "institution": "Cleveland Museum of Art",
+        "city": "Cleveland, Ohio",
+        "country": "United States",
+        "shelfmark": "1983.1115.a",
+        "current_holder_confirmed": true,
+        "external_url": "https://archive.org/details/clevelandart-1983.1115.a-persian-quatrains-ru"
+      },
+      "attribution": {
+        "confidence_level": "attributed",
+        "source_type": "museum_catalog",
+        "source_citation": "Cleveland Museum of Art accession record 1983.1115.a; gift of Mrs. Mehmed A. Simsar (1983)",
+        "colophon_text": "",
+        "signature_formula": "",
+        "our_verification": "CMA record retrieved 2026-02-26"
+      },
+      "yek_data": null,
+      "status": "complete",
+      "further_action": "",
+      "notes": "Sheet: 27.4 × 20 cm; text area: 18.7 × 10.9 cm. Signature in triangle at lower left of inner text block. Contains diagonal quatrain addressing a ruler, horizontal panel praising the beloved, and calligraphic alphabet exercises on right side. CC0 license."
+    },
+    {
+      "record_id": "topkapi_H2356",
+      "text": {
+        "title": "Muraqqa (calligraphy album pages)",
+        "title_arabic": "مرقع",
+        "author": "",
+        "author_arabic": "",
+        "genre": "muraqqa (calligraphy album)"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "",
+        "date_notes": "Date unknown; album likely compiled over time",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "Topkapı Sarayı Müzesi Kütüphanesi",
+        "city": "Istanbul",
+        "country": "Turkey",
+        "shelfmark": "H.2356",
+        "current_holder_confirmed": true,
+        "external_url": "https://yazmalar.gov.tr/"
+      },
+      "attribution": {
+        "confidence_level": "unverified",
+        "source_type": "auction_catalog",
+        "source_citation": "Sotheby's London, Arts of the Islamic World, 19 April 2018, lot 58 — cited as comparandum",
+        "colophon_text": "",
+        "signature_formula": "",
+        "our_verification": ""
+      },
+      "yek_data": null,
+      "status": "awaiting_access",
+      "further_action": "yazmalar.gov.tr = YEK portal — already exhaustively searched (Sessions 1–3, 2026-02-25/26). No Topkapi Khandan attributions found in YEK. To confirm H.2356 Khandan pages: contact Topkapi Palace Museum Library directly, or consult Karatay 1961 printed catalogue in a research library.",
+      "notes": "Cited in Sotheby's 2018 lot 58 lot note as containing pages in Khandan's hand. Topkapi H-series = Hazine collection. yazmalar.gov.tr = same system as YEK portal (confirmed 2026-02-26). Sessions 1–3 found zero Topkapi Khandan records in YEK person-attribution fields."
+    },
+    {
+      "record_id": "bl_delhi_persian_584a",
+      "text": {
+        "title": "Tazkirat al-awliyāʾ",
+        "title_arabic": "تذكرة الأولياء",
+        "author": "Farīd al-Dīn ʿAṭṭār Nīshābūrī",
+        "author_arabic": "فريد الدين عطار نيشابوري",
+        "genre": "hagiography / prose"
+      },
+      "manuscript": {
+        "date_ah": "920",
+        "date_ce": "1514–15",
+        "date_notes": "Dated by colophon: 'completed by Muhammad Khandan in AH 920 (1514/15)'",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": 382,
+        "dimensions_mm": "300x180",
+        "place_of_copying": "Herat (probable)"
+      },
+      "holding": {
+        "institution": "British Library (India Office Library)",
+        "city": "London",
+        "country": "United Kingdom",
+        "shelfmark": "Delhi Persian 584A",
+        "current_holder_confirmed": true,
+        "external_url": "https://www.fihrist.org.uk/catalog/manuscript_32714"
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "museum_catalog",
+        "source_citation": "FIHRIST record manuscript_32714; British Library India Office Library",
+        "colophon_text": "Completed by Muhammad Khandan in AH 920 (1514/15)",
+        "signature_formula": "كتبه محمد خندان",
+        "our_verification": "FIHRIST record confirmed 2026-02-26. 380 folios + 2 preliminary. 15 lines/page. Illumination: 8-pointed shamsa f.1r; cloud-band illumination ff.1v-2r. Purchased by Government of India 1859; transferred India Office Library 1876."
+      },
+      "yek_data": null,
+      "status": "complete",
+      "further_action": "",
+      "notes": "NEW FIND (FIHRIST 2026-02-26). Earliest confirmed Khandan manuscript in a public institution. Colophon names 'Muhammad Khandan' (without Sultan title — shorter form). Prose text: 'Memorial of Saints' by Attar. Not previously in the corpus."
+    },
+    {
+      "record_id": "bl_or_8760",
+      "text": {
+        "title": "Dīwān-i Shāhī",
+        "title_arabic": "دیوان شاهی",
+        "author": "Amīr Shāhī Sabzavārī",
+        "author_arabic": "امير شاهي سبزواري",
+        "genre": "divan"
+      },
+      "manuscript": {
+        "date_ah": "888",
+        "date_ce": "1482–83",
+        "date_notes": "ANOMALOUS — 888 AH predates Khandan's confirmed activity by ~27 years. Date may be of text composition, not manuscript copying, or may be a cataloguing error.",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": 37,
+        "dimensions_mm": "231x161",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "British Library (Oriental Manuscripts)",
+        "city": "London",
+        "country": "United Kingdom",
+        "shelfmark": "Or 8760",
+        "current_holder_confirmed": true,
+        "external_url": "https://www.fihrist.org.uk/catalog/manuscript_6431"
+      },
+      "attribution": {
+        "confidence_level": "unverified",
+        "source_type": "museum_catalog",
+        "source_citation": "FIHRIST record manuscript_6431; Meredith-Owens, Handlist of Persian Manuscripts 1895–1966, London 1968, p. 56",
+        "colophon_text": "",
+        "signature_formula": "",
+        "our_verification": "FIHRIST record confirmed 2026-02-26. Includes miniatures. Colophon not transcribed in FIHRIST."
+      },
+      "yek_data": null,
+      "status": "insufficient_data",
+      "further_action": "Verify date: 888 AH predates Khandan by ~27 years. Physical examination or correspondence with BL needed to determine if date refers to text composition or manuscript copying.",
+      "notes": "NEW FIND (FIHRIST 2026-02-26). Date 888 AH is anomalous — Khandan active from 915 AH / 1509 CE. Possible explanations: (1) date is of text composition, not copying; (2) cataloguing error; (3) attribution to a different calligrapher with same name. Needs verification."
+    },
+    {
+      "record_id": "bl_or_11839",
+      "text": {
+        "title": "Specimens of calligraphy by various calligraphers",
+        "title_arabic": "مرقع خط",
+        "author": "Multiple (Sultan Muhammad Nur, ʿAlī Riḍā, Sultan Muhammad Khandan)",
+        "author_arabic": "",
+        "genre": "muraqqa (calligraphy album)"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "16th–17th century",
+        "date_notes": "Individual specimens dated AH 925, 942, 962, and 977",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": 27,
+        "dimensions_mm": "302x215",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "British Library (Oriental Manuscripts)",
+        "city": "London",
+        "country": "United Kingdom",
+        "shelfmark": "Or 11839",
+        "current_holder_confirmed": true,
+        "external_url": "https://www.fihrist.org.uk/catalog/manuscript_5387"
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "museum_catalog",
+        "source_citation": "FIHRIST record manuscript_5387; bequeathed by P.C. Manuk and Miss G.M. Coles through National Art Collections Fund, October 1948; transferred to BL 1973",
+        "colophon_text": "",
+        "signature_formula": "",
+        "our_verification": "FIHRIST record confirmed 2026-02-26. Khandan named among calligraphers represented; other calligraphers: Sultan Muhammad Nur, ʿAli Riza. Specimens dated 925, 942, 962, 977 AH."
+      },
+      "yek_data": null,
+      "status": "complete",
+      "further_action": "",
+      "notes": "NEW FIND (FIHRIST 2026-02-26). Album containing calligraphy specimens by multiple Herat-tradition scribes. Khandan shares the album with Sultan Muhammad Nur — both are named in the FIHRIST record. Specimen dates span 925–977 AH, consistent with Khandan's activity."
+    },
+    {
+      "record_id": "rylands_hafiz_937",
+      "text": {
+        "title": "Dīwān-i Ḥāfiẓ",
+        "title_arabic": "دیوان حافظ",
+        "author": "Shams al-Dīn Muḥammad Ḥāfiẓ Shīrāzī",
+        "author_arabic": "شمس الدين محمد حافظ شيرازي",
+        "genre": "divan"
+      },
+      "manuscript": {
+        "date_ah": "937",
+        "date_ce": "1530",
+        "date_notes": "Colophon: 'Completed by Sultan Muhammad Khandan in Herat in 937 AH'",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": "Herat"
+      },
+      "holding": {
+        "institution": "John Rylands Library, University of Manchester",
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "shelfmark": "Persian MS 842",
+        "current_holder_confirmed": true,
+        "external_url": "https://www.fihrist.org.uk/catalog/manuscript_7351"
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "museum_catalog",
+        "source_citation": "FIHRIST record manuscript_7351; John Rylands Library",
+        "colophon_text": "Completed by Sultan Muhammad Khandan in Herat in 937 AH",
+        "signature_formula": "سلطان محمد خندان",
+        "our_verification": "FIHRIST record confirmed 2026-02-26. Colophon names calligrapher and gives Herat as place of copying."
+      },
+      "yek_data": null,
+      "status": "complete",
+      "further_action": "",
+      "notes": "NEW FIND (FIHRIST 2026-02-26). The 'BL Hafiz 921 AH' referenced in secondary sources (baysunghur.org citing Bayani) is likely a misidentification of this manuscript or a bibliographic error — the Hafiz divan by Khandan is at Rylands (Manchester), dated 937 AH / 1530 CE (NOT BL, NOT 921 AH). Colophon names place: Herat. Full colophon text: 'Completed by Sultan Muhammad Khandan in Herat in 937 AH'."
+    },
+    {
+      "record_id": "bodleian_suhili",
+      "text": {
+        "title": "Dīwān-i Suhilī",
+        "title_arabic": "دیوان سهیلی",
+        "author": "Suhilī",
+        "author_arabic": "سهيلي",
+        "genre": "divan"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "",
+        "date_notes": "Undated",
+        "script_type": "nastaʿlīq",
+        "language": "Chagatay Turkish",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "Bodleian Library, University of Oxford",
+        "city": "Oxford",
+        "country": "United Kingdom",
+        "shelfmark": "MS. Elliott 102",
+        "current_holder_confirmed": true,
+        "external_url": "https://www.fihrist.org.uk/catalog/manuscript_23004"
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "museum_catalog",
+        "source_citation": "FIHRIST record manuscript_23004; Elliott Collection; Ethe cat. no. 981",
+        "colophon_text": "",
+        "signature_formula": "فقير خندان",
+        "our_verification": "Shelfmark confirmed via FIHRIST 2026-02-26. 98 folios. Author: Suhayli, Nizam al-Din Ahmad (Chagatay-tradition Persian poet). Provenance: John Bardoe Elliott collection, presented to Bodleian 1859."
+      },
+      "yek_data": null,
+      "status": "complete",
+      "further_action": "",
+      "notes": "Shelfmark confirmed: Bodleian MS. Elliott 102. 98 folios. Undated. Chagatay-tradition Persian divan — one of two Chagatay-language manuscripts in the corpus. FIHRIST URL: https://www.fihrist.org.uk/catalog/manuscript_23004"
+    },
+    {
+      "record_id": "malik_munajat",
+      "text": {
+        "title": "Munājātnāma",
+        "title_arabic": "مناجات نامه",
+        "author": "Attributed to Imam ʿAlī ibn Abī Ṭālib",
+        "author_arabic": "علي بن أبي طالب",
+        "genre": "religious / munajat (supplication)"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "",
+        "date_notes": "Undated",
+        "script_type": "nastaʿlīq",
+        "language": "Persian/Arabic",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "Kitābkhāna-yi Mālik (Malik National Library and Museum)",
+        "city": "Tehran",
+        "country": "Iran",
+        "shelfmark": "",
+        "current_holder_confirmed": true,
+        "external_url": ""
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "bibliography",
+        "source_citation": "baysunghur.org/?p=1821: 'published 1391 SH / 2012 CE'",
+        "colophon_text": "",
+        "signature_formula": "",
+        "our_verification": ""
+      },
+      "yek_data": null,
+      "status": "awaiting_access",
+      "further_action": "A published edition exists (1391 SH / 2012). The publication itself may contain the colophon transcription. Malik Museum catalog may be searchable.",
+      "notes": "A published facsimile or edition was issued in 2012 — this may contain a transcription of Khandan's colophon."
+    },
+    {
+      "record_id": "harvard_1985_263",
+      "text": {
+        "title": "Album folio: Verses from Niẓāmī's Khusraw va Shīrīn (recto); Dragon in Foliage drawing (verso)",
+        "title_arabic": "خسرو و شیرین",
+        "author": "Niẓāmī Ganjavī (text); Sultan Muhammad Khandan (calligrapher)",
+        "author_arabic": "نظامي گنجوي",
+        "genre": "qitʿa / album leaf"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "c. 1509–1550 (museum dates as '15th century / Turkman period' — inconsistent with Khandan's activity from 915 AH)",
+        "date_notes": "Museum catalogues as '15th century, Turkman period' but Khandan active 915–992 AH (1509–1584 CE). Date requires reassessment.",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": 1,
+        "dimensions_mm": "401x277",
+        "place_of_copying": "Tabriz (per museum record)"
+      },
+      "holding": {
+        "institution": "Harvard Art Museums / Arthur M. Sackler Museum (Edwin Binney, 3rd Collection of Turkish Art)",
+        "city": "Cambridge, Massachusetts",
+        "country": "United States",
+        "shelfmark": "1985.263",
+        "current_holder_confirmed": true,
+        "external_url": "https://www.harvardartmuseums.org/art/201588"
+      },
+      "attribution": {
+        "confidence_level": "attributed",
+        "source_type": "museum_catalog",
+        "source_citation": "Harvard Art Museums accession 1985.263 (object ID 201588); bequeathed by Edwin Binney, 3rd, 1985",
+        "colophon_text": "",
+        "signature_formula": "",
+        "our_verification": "Harvard Art Museums online record retrieved 2026-02-26. Object confirmed as single album folio (NOT a manuscript codex). Calligrapher Sultan Muhammad Khandan explicitly named in museum record. NOTE: URL https://www.harvardartmuseums.org/art/352087 leads to a different object (HAM 12.2015, a Haft Awrang manuscript, unrelated to Khandan)."
+      },
+      "yek_data": null,
+      "status": "complete",
+      "further_action": "",
+      "notes": "This is a single album leaf (qitʿa), not a bound manuscript. Medium: ink, opaque watercolor and gold on paper. Provenance: Dikran Khan Kelekian (by 1933) → Heeramaneck sale Oct 1962 → Edwin Binney, 3rd → Harvard Art Museums 1985. The museum's 'Turkman period' attribution for the date needs scholarly reassessment given Khandan's documented activity starts 915 AH / 1509 CE."
+    },
+    {
+      "record_id": "arkeoloji_00153",
+      "text": {
+        "title": "Ilāhīnāma",
+        "title_arabic": "إلهي نامه",
+        "author": "Khwāja ʿAbdullāh al-Anṣārī al-Harawī",
+        "author_arabic": "أبو إسماعيل عبد الله بن محمد بن علي الهروي الأنصاري",
+        "genre": "masnavi / munajat"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "",
+        "date_notes": "Undated; no date in colophon",
+        "script_type": "taʿlīq",
+        "language": "Persian",
+        "folio_count": 10,
+        "dimensions_mm": "250x190",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "İstanbul Arkeoloji Müzeleri Yazmaları",
+        "city": "Istanbul",
+        "country": "Turkey",
+        "shelfmark": "Arkeoloji 00153",
+        "current_holder_confirmed": true,
+        "external_url": "https://portal.yek.gov.tr/works/detail/706550"
+      },
+      "attribution": {
+        "confidence_level": "confirmed",
+        "source_type": "yek_colophon_verified",
+        "source_citation": "YEK portal record 706550; colophon verified by colophon-verifier agent, 2026-02-25",
+        "colophon_text": "قد وقع توفيق تنميق هذه الرسالة التي كانت الفاظها كبيره ومعانيها كثيره والمسمى بالهى نامه على يد اضعف عباد الله الصمد المنان سلطان محمد الخندان غفر ذنوبه وستر عيوبه",
+        "signature_formula": "على يد اضعف عباد الله الصمد المنان سلطان محمد الخندان",
+        "our_verification": "Colophon clearly legible on folio 10a (digitized page 11) at IIIF 1600px. Name form: سلطان محمد الخندان (with definite article). Confidence 0.95."
+      },
+      "yek_data": {
+        "yek_id": 706550,
+        "yek_url": "https://portal.yek.gov.tr/works/detail/706550",
+        "colophon_verdict": "colophon_confirmed",
+        "confidence": 0.95,
+        "iiif_id": "0000000665118",
+        "verdict_file": "catalog/arkeoloji_00153_verdict.json"
+      },
+      "status": "complete",
+      "further_action": "",
+      "notes": "THE ONLY COLOPHON-CONFIRMED KHANDAN MANUSCRIPT IN THIS CORPUS. Found via سلطان محمد خندان in Nüshayla ilgili kişiler, Session 1, 2026-02-25. Colophon also transcribed in YEK İstinsah kaydı (Arap harfli) field. Catalogued by Zeynep Özçelik. See catalog/arkeoloji_00153.json for full ManuscriptRecord."
+    },
+    {
+      "record_id": "tiem_01942",
+      "text": {
+        "title": "Dīwān-i Sulṭān Ḥusayn Bayqarā",
+        "title_arabic": "دیوان سلطان حسین بایقرا",
+        "author": "Sulṭān Ḥusayn Bayqarā",
+        "author_arabic": "سلطان حسين بايقرا",
+        "genre": "divan"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "",
+        "date_notes": "Undated; no date in YEK record",
+        "script_type": "nastaʿlīq",
+        "language": "Chagatay Turkish",
+        "folio_count": 64,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "Türk ve İslam Eserleri Müzesi",
+        "city": "Istanbul",
+        "country": "Turkey",
+        "shelfmark": "TIEM 01942",
+        "current_holder_confirmed": true,
+        "external_url": "https://portal.yek.gov.tr/works/detail/704748"
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "yek_cataloguer",
+        "source_citation": "YEK portal record 704748, Nüshayla ilgili kişiler field: 'Müstensih, Sultan Muhammed Handan'",
+        "colophon_text": "",
+        "signature_formula": "",
+        "our_verification": "Colophon-verifier examined 64 pages (2026-02-25). No scribal colophon found. Attribution rests solely on cataloguer's entry."
+      },
+      "yek_data": {
+        "yek_id": 704748,
+        "yek_url": "https://portal.yek.gov.tr/works/detail/704748",
+        "colophon_verdict": "colophon_not_found",
+        "confidence": null,
+        "iiif_id": "0000000663702",
+        "verdict_file": "catalog/tiem_01942_verdict.json"
+      },
+      "status": "complete",
+      "further_action": "",
+      "notes": "YEK cataloguer listed Sultan Muhammed Handan as müstensih (copyist). Colophon-verifier examined all 64 digitized pages and found no scribal colophon. Attribution unconfirmed — rests entirely on cataloguer's identification, which may derive from Bayani or Karatay."
+    },
+    {
+      "record_id": "yek_705856_candidate",
+      "text": {
+        "title": "Bustān",
+        "title_arabic": "بوستان",
+        "author": "Muṣliḥ al-Dīn Saʿdī Shīrāzī",
+        "author_arabic": "مصلح الدين سعدي شيرازي",
+        "genre": "masnavi"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "",
+        "date_notes": "Undated; no date in YEK record",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": 144,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "İstanbul Arkeoloji Müzeleri Yazmaları",
+        "city": "Istanbul",
+        "country": "Turkey",
+        "shelfmark": "Recaizade Ekrem Bey 00066",
+        "current_holder_confirmed": true,
+        "external_url": "https://portal.yek.gov.tr/works/detail/705856"
+      },
+      "attribution": {
+        "confidence_level": "unverified",
+        "source_type": "yek_cataloguer",
+        "source_citation": "YEK Session 4 title search, 2026-02-26. No copyist in Nüshayla ilgili kişiler.",
+        "colophon_text": "على يد أضعف عبادالله و أحوجهم إلی فضل الله",
+        "signature_formula": "أضعف عبادالله [name portion physically lost to folio damage]",
+        "our_verification": "Three colophon-verifier sessions (2026-02-26). IIIF ID confirmed: 0000000664425. True total pages: 152. Colophon located on IIIF p147 left page (folio 144v), below the last red-bordered poetry column. Formula opening 'أضعف عباد[الله]' clearly legible at 5–12x magnification. Name portion physically lost: right margin of folio 144v is torn, and the scribe-name section of the colophon (which precedes the formula in RTL order) has been physically lost to folio damage. No higher-resolution approach can recover the missing text. Verdict: inconclusive. See catalog/yek_705856_verdict.json."
+      },
+      "yek_data": {
+        "yek_id": 705856,
+        "yek_url": "https://portal.yek.gov.tr/works/detail/705856",
+        "colophon_verdict": "inconclusive",
+        "confidence": 0.38,
+        "iiif_id": "0000000664425",
+        "verdict_file": "catalog/yek_705856_verdict.json"
+      },
+      "status": "awaiting_access",
+      "further_action": "Physical examination of the manuscript required to determine whether the missing colophon name portion was trimmed during rebinding (in which case it may survive as a separate fragment or in the binding) or was lost to damage. Direct contact with Istanbul Arkeoloji Muzesi is the recommended next step. No further digital verification is possible at the available resolution.",
+      "notes": "Three colophon-verifier sessions failed to resolve the scribe name due to physical folio damage, not resolution limitations. IIIF ID now confirmed: 0000000664425. Colophon page corrected to IIIF p147 left (folio 144v) — previous sessions misidentified viewer page 146 as the colophon page due to a viewer/IIIF page number offset of ~2. Formula 'أضعف عبادالله' is visible and matches Khandan's confirmed formula from arkeoloji_00153. Same institution as the only confirmed Khandan manuscript in this corpus. Bustan genre consistent with two other Bustan copies in the world corpus (bayani_bustan_920, bonhams_bustan_956). Contextual evidence is strong but insufficient for confirmation without the name."
+    },
+    {
+      "record_id": "christies_imam_ali_2010",
+      "text": {
+        "title": "Sayings of Imām ʿAlī",
+        "title_arabic": "أقوال الإمام علي",
+        "author": "attr. Imām ʿAlī ibn Abī Ṭālib",
+        "author_arabic": "الإمام علي بن أبي طالب",
+        "genre": "pious compilation"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "",
+        "date_notes": "Catalogued as 'Timurid Iran, 15th century' by Christie's. Falls before Khandan's documented range (AH 915–992); possibly early career or a cataloguing uncertainty.",
+        "script_type": "tawqīʿ + nastaʿlīq",
+        "language": "Arabic with Persian verse translation",
+        "folio_count": 17,
+        "dimensions_mm": "257 × 172",
+        "place_of_copying": "Iran (Timurid)"
+      },
+      "holding": {
+        "institution": "Sold at auction; buyer unknown",
+        "city": "London (sale)",
+        "country": "United Kingdom",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": "https://www.christies.com/en/lot/lot-5303070"
+      },
+      "attribution": {
+        "confidence_level": "attributed",
+        "source_type": "auction_catalog",
+        "source_citation": "Christie's London, Islamic Art & Manuscripts, 13 Apr 2010, lot 174. Hammer price: £7,500. Christie's catalogue references Bayani vol. I pp. 268–71 and Karatay nos. 777, 787.",
+        "colophon_text": "Colophon signed (verbatim text not recorded in catalogue)",
+        "signature_formula": "Sultan Muhammad Khandan (per Christie's catalogue)",
+        "our_verification": ""
+      },
+      "yek_data": null,
+      "status": "complete",
+      "further_action": "Verify '15th century' date — predates Khandan's documented activity (AH 915/1509). May indicate an earlier undocumented copy or a cataloguing uncertainty.",
+      "notes": "17ff. + 2 fly-leaves. Each page: 3ll. large black tawqi' + 6ll. black nasta'liq in 2 columns within gold and black rules. Heavily illuminated Qajar headpiece. Qajar red and green morocco binding. Waterstaining; minor repairs. Text panel 19.6 × 11.3 cm."
+    },
+    {
+      "record_id": "roseberys_tuhfat_2021",
+      "text": {
+        "title": "Tuḥfat al-Aḥrār",
+        "title_arabic": "تحفة الأحرار",
+        "author": "Nūr al-Dīn ʿAbd al-Raḥmān Jāmī",
+        "author_arabic": "نور الدين عبد الرحمن جامي",
+        "genre": "masnavi"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "",
+        "date_notes": "Catalogued as 'Safavid Persia, 16th century' by Roseberys; PDF estimates probably 1530–60.",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": 67,
+        "dimensions_mm": "248 × 160",
+        "place_of_copying": "Safavid Persia"
+      },
+      "holding": {
+        "institution": "Sold at auction; buyer unknown (Important Private Collection)",
+        "city": "London (sale)",
+        "country": "United Kingdom",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": "https://www.roseberys.co.uk/a0502-lot-506319"
+      },
+      "attribution": {
+        "confidence_level": "attributed",
+        "source_type": "auction_catalog",
+        "source_citation": "Roseberys London, Islamic & Indian Art, 26 Oct 2021, lot 101. Price realised: £36,400 (est. £2,000–3,000).",
+        "colophon_text": "Colophon signed by Sultan Muhammad Khandan (verbatim text not recorded in catalogue)",
+        "signature_formula": "Sultan Muhammad Khandan",
+        "our_verification": ""
+      },
+      "yek_data": null,
+      "status": "complete",
+      "further_action": "",
+      "notes": "67 leaves + 6 fly-leaves. 14ll. black nastaliq in 2 columns; ruled black, red and blue. Outer margins: gold interlacing floral scrolls. f.1b: polychrome and gold heading. Brown stamped binding. Text panel 14.5 × 7 cm; leaf 24.8 × 16 cm. Exceptional hammer price (18× estimate). Roseberys 2020 lot 13 (Layla wa Majnun, AH 921) cross-referenced in this lot's catalogue note."
+    },
+    {
+      "record_id": "lacma_horse_groom",
+      "text": {
+        "title": "Horse and Groom, Folio (from an Album)",
+        "title_arabic": "",
+        "author": "Painting attr. to ʿAbd al-Ṣamad; calligraphy by Khandān with gilding by Ḥāshim Muḍahhib",
+        "author_arabic": "",
+        "genre": "album folio"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "",
+        "date_notes": "Painting: Iran, Tabriz, first half of 16th century. Album compiled for Bahram Mirza by calligrapher Dust Muhammad, 1544–45 CE.",
+        "script_type": "nastaʿlīq (white)",
+        "language": "Persian",
+        "folio_count": 1,
+        "dimensions_mm": "",
+        "place_of_copying": "Tabriz / Safavid Iran"
+      },
+      "holding": {
+        "institution": "Los Angeles County Museum of Art (LACMA)",
+        "city": "Los Angeles",
+        "country": "United States",
+        "shelfmark": "1982.120.4",
+        "current_holder_confirmed": true,
+        "external_url": "https://unframed.lacma.org/2025/11/18/50-works-50-weeks-horse-and-groom"
+      },
+      "attribution": {
+        "confidence_level": "attributed",
+        "source_type": "museum_catalog",
+        "source_citation": "LACMA Unframed blog, 18 Nov 2025. Bequest of Edwin Binney, 3rd, Turkish Collection (acc. 1982.120.4). Also cited in ChatGPT PDF corpus.",
+        "colophon_text": "",
+        "signature_formula": "Signed by Sultan Muhammad Khandan (on reverse calligraphy panel)",
+        "our_verification": ""
+      },
+      "yek_data": null,
+      "status": "complete",
+      "further_action": "Retrieve full LACMA object record for exact folio dimensions and full inscription text of the calligraphy panel.",
+      "notes": "Album folio. Recto: painting of horse and groom attr. to ʿAbd al-Ṣamad. Verso: two calligraphies, one in white nastaʿlīq signed by Sultan Muhammad Khandan, gilding by Ḥāshim Muḍahhib. Proposed to be from the Bahram Mirza album (1517–1549, brother of Shah Tahmasp) compiled by Dust Muhammad in 1544–45. Provenance: Bequest of Edwin Binney, 3rd. Cf. Freer F1937.22 for another Khandan+Hashim Mudhahhib panel from a related context."
+    },
+    {
+      "record_id": "michigan_simpson_album",
+      "text": {
+        "title": "Calligraphic specimens",
+        "title_arabic": "",
+        "author": "Sultan Muhammad Khandan; Shāh Maḥmūd al-Nīshāpūrī",
+        "author_arabic": "سلطان محمد خندان؛ شاه محمود النيشابوري",
+        "genre": "album folio / calligraphic specimens"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "",
+        "date_notes": "No dates provided in archive record.",
+        "script_type": "nastaʿlīq",
+        "language": "Persian",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "University of Michigan Library — Simpson Islamic Manuscript Record Archive",
+        "city": "Ann Arbor",
+        "country": "United States",
+        "shelfmark": "13ASIMPSON0460",
+        "current_holder_confirmed": true,
+        "external_url": "https://quod.lib.umich.edu/h/hart3ic/x-569626/13asimpson0460"
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "bibliography",
+        "source_citation": "Marianna Shreve Simpson Islamic Manuscript Record Archive, University of Michigan Library Digital Collections. Accessed 2026-02-26.",
+        "colophon_text": "",
+        "signature_formula": "",
+        "our_verification": ""
+      },
+      "yek_data": null,
+      "status": "awaiting_access",
+      "further_action": "Original manuscript identified as BL Or 11839 via Classification Filing Number. See bl_or_11839 in this corpus for full album details including FIHRIST record.",
+      "notes": "Archival photograph of a two-page spread of calligraphic specimens by Sultan Muhammad Khandan and Shah Mahmud al-Nishapuri. Part of Marianna Shreve Simpson's research archive (copyright 2019 Dr. Marianna Shreve Simpson). The original physical manuscript is the British Library's Or 11839 (see record bl_or_11839 in this corpus); the Classification Filing Number 'Or 11839' in the Simpson Archive identifies this as a record for that album. This Simpson Archive entry documents 2 pages (13ASIMPSON0459 + 13ASIMPSON0460) of BL Or 11839 photographed during Marianna Shreve Simpson's research. Image 2 of 2 in this entry; Image 1 at 13ASIMPSON0459."
+    },
+    {
+      "record_id": "chester_beatty_bustan_916",
+      "text": {
+        "title": "Bustan",
+        "title_arabic": "بوستان",
+        "author": "Muslih al-Din Sadi Shirazi",
+        "author_arabic": "مصلح الدين سعدي شيرازي",
+        "genre": "masnavi"
+      },
+      "manuscript": {
+        "date_ah": "916",
+        "date_ce": "1510",
+        "date_notes": "Dated 15 Shaban 916 (17 November 1510), at Herat.",
+        "script_type": "nastaaliq",
+        "language": "Persian",
+        "folio_count": 123,
+        "dimensions_mm": "265x175",
+        "place_of_copying": "Herat"
+      },
+      "holding": {
+        "institution": "Chester Beatty Library",
+        "city": "Dublin",
+        "country": "Ireland",
+        "shelfmark": "CBL Per 183",
+        "current_holder_confirmed": true,
+        "external_url": ""
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "published_catalog",
+        "source_citation": "Arberry, A.J. et al. The Chester Beatty Library: A Catalogue of the Persian Manuscripts and Miniatures, Vol. II (MSS 151-220). Dublin: Hodges Figgis, 1960, entry 183, pp. 44-45.",
+        "colophon_text": "",
+        "signature_formula": "",
+        "our_verification": "Chester Beatty catalog PDF scraped 2026-02-26. 'Splendid calligraphic by a master hand'. Scribe signs himself Sultan Muhammad Khandan. Catalog cites death date 950 AH (Huart) - contradicted by Bayani (manuscripts to 957 AH)."
+      },
+      "yek_data": null,
+      "status": "complete",
+      "further_action": "",
+      "notes": "Written surface 175x87 mm, 14 lines in two columns. Magnificent sarlauhs. Third Bustan in corpus (also bayani_bustan_920, bonhams_bustan_956). Second earliest dated Khandan ms after private_tehran_yusuf_915."
+    },
+    {
+      "record_id": "chester_beatty_hafiz_920",
+      "text": {
+        "title": "Page from Divan-i Hafiz",
+        "title_arabic": "دیوان حافظ",
+        "author": "Shams al-Din Muhammad Hafiz Shirazi",
+        "author_arabic": "شمس الدين محمد حافظ شيرازي",
+        "genre": "divan (single folio)"
+      },
+      "manuscript": {
+        "date_ah": "920",
+        "date_ce": "1514",
+        "date_notes": "Dated 920 AH (1514), at Herat.",
+        "script_type": "nastaaliq",
+        "language": "Persian",
+        "folio_count": 1,
+        "dimensions_mm": "273x171",
+        "place_of_copying": "Herat"
+      },
+      "holding": {
+        "institution": "Chester Beatty Library",
+        "city": "Dublin",
+        "country": "Ireland",
+        "shelfmark": "CBL Per 184",
+        "current_holder_confirmed": true,
+        "external_url": ""
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "published_catalog",
+        "source_citation": "Arberry, A.J. et al. The Chester Beatty Library: A Catalogue of the Persian Manuscripts and Miniatures, Vol. II (MSS 151-220). Dublin: Hodges Figgis, 1960, entry 184, p. 45.",
+        "colophon_text": "",
+        "signature_formula": "",
+        "our_verification": "Chester Beatty catalog PDF scraped 2026-02-26. Same scribe as CBL Per 183."
+      },
+      "yek_data": null,
+      "status": "complete",
+      "further_action": "",
+      "notes": "Single folio. Recto: first 7 hemistichs of opening poem of Hafiz Divan. Verso: 4 rubai. Illumination of great delicacy. Same scribe as CBL Per 183."
+    },
+    {
+      "record_id": "israel_qiran_925",
+      "text": {
+        "title": "Qiran al-Sadayn",
+        "title_arabic": "قران السعدین",
+        "author": "Amir Khusraw Dihlavi",
+        "author_arabic": "امير خسرو دهلوي",
+        "genre": "masnavi"
+      },
+      "manuscript": {
+        "date_ah": "925",
+        "date_ce": "1519",
+        "date_notes": "Dated 925 AH per baysunghur.org (Saadati 2021).",
+        "script_type": "nastaaliq",
+        "language": "Persian",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "Israel Museum",
+        "city": "Jerusalem",
+        "country": "Israel",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": ""
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "bibliography",
+        "source_citation": "Saadati, Khodabakhsh. 'Sultan Muhammad Khandan'. baysunghur.org, 1400/01/22 [April 2021].",
+        "colophon_text": "",
+        "signature_formula": "",
+        "our_verification": "Listed in baysunghur.org article (scraped 2026-02-26). No raqm transcription provided."
+      },
+      "yek_data": null,
+      "status": "awaiting_access",
+      "further_action": "Contact Israel Museum for shelfmark and confirm attribution.",
+      "notes": "Second Qiran al-Sadayn by Khandan (also bl_qiran_921 at 921 AH). No raqm given in source."
+    },
+    {
+      "record_id": "tehran_nli_yusuf",
+      "text": {
+        "title": "Yusuf va Zulaykha",
+        "title_arabic": "یوسف و زلیخا",
+        "author": "Nur al-Din Abd al-Rahman Jami",
+        "author_arabic": "نور الدين عبد الرحمن جامي",
+        "genre": "masnavi"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "",
+        "date_notes": "Undated.",
+        "script_type": "nastaaliq",
+        "language": "Persian",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "National Library of Iran (Kitabkhana-yi Milli-yi Iran)",
+        "city": "Tehran",
+        "country": "Iran",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": ""
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "bibliography",
+        "source_citation": "Saadati, Khodabakhsh. 'Sultan Muhammad Khandan'. baysunghur.org, 1400/01/22 [April 2021].",
+        "colophon_text": "کتبه العبد المنّان سلطان محمد خندان",
+        "signature_formula": "کتبه العبد المنّان سلطان محمد خندان",
+        "our_verification": "Listed in baysunghur.org article (scraped 2026-02-26). Raqm provided. DISTINCT from private_tehran_yusuf_915 and private_paris_yusuf_923."
+      },
+      "yek_data": null,
+      "status": "awaiting_access",
+      "further_action": "Search NLI online catalog or Dirayati for shelfmark.",
+      "notes": "Third Yusuf va Zulaykha by Khandan. Raqm uses unusual form 'al-abd al-mannan'. NLI is a public institution."
+    },
+    {
+      "record_id": "majlis_shahi_944",
+      "text": {
+        "title": "Divan-i Amir Shahi Sabzavari",
+        "title_arabic": "دیوان امیر شاهی سبزواری",
+        "author": "Amir Shahi Sabzavari",
+        "author_arabic": "امير شاهي سبزواري",
+        "genre": "divan"
+      },
+      "manuscript": {
+        "date_ah": "944",
+        "date_ce": "1537-38",
+        "date_notes": "Dated Muharram 944 AH.",
+        "script_type": "nastaaliq",
+        "language": "Persian",
+        "folio_count": 70,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "Kitabkhana-yi Majlis-i Shura-yi Islami (Iranian Parliamentary Library)",
+        "city": "Tehran",
+        "country": "Iran",
+        "shelfmark": "ms. 1343",
+        "current_holder_confirmed": false,
+        "external_url": ""
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "bibliography",
+        "source_citation": "Saadati, Khodabakhsh. 'Sultan Muhammad Khandan'. baysunghur.org, 1400/01/22 [April 2021].",
+        "colophon_text": "",
+        "signature_formula": "",
+        "our_verification": "Listed in baysunghur.org article (scraped 2026-02-26). 70 leaves, 12 lines per page."
+      },
+      "yek_data": null,
+      "status": "awaiting_access",
+      "further_action": "Search Majlis Library online catalog (lib.icana.ir) for ms. 1343.",
+      "notes": "70 leaves, 12 lines. Amir Shahi Sabzavari (d. 857/1453) was a Timurid Herat poet."
+    },
+    {
+      "record_id": "tehran_nmi_navai",
+      "text": {
+        "title": "Divan-i Navai (Turkish)",
+        "title_arabic": "دیوان نوایی",
+        "author": "Mir Ali Shir Navai",
+        "author_arabic": "مير على شير نوايي",
+        "genre": "divan"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "",
+        "date_notes": "Undated.",
+        "script_type": "nastaaliq",
+        "language": "Chagatay Turkish",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "Muza-yi Milli-yi Iran (National Museum of Iran)",
+        "city": "Tehran",
+        "country": "Iran",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": ""
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "bibliography",
+        "source_citation": "Saadati, Khodabakhsh. 'Sultan Muhammad Khandan'. baysunghur.org, 1400/01/22 [April 2021].",
+        "colophon_text": "تمت الانتخاب بعون الملک الوهاب علی ید عبد الفقیر الحقیر سلطان محمد خندان غفر ذنوبه وستر عیوبه بمحمد وآل الکرام",
+        "signature_formula": "علی ید عبد الفقیر الحقیر سلطان محمد خندان",
+        "our_verification": "Listed in baysunghur.org article (scraped 2026-02-26) with full raqm. DISTINCT from stpetersburg_navai_935."
+      },
+      "yek_data": null,
+      "status": "awaiting_access",
+      "further_action": "Contact National Museum of Iran for shelfmark.",
+      "notes": "Second Navai divan by Khandan (also stpetersburg_navai_935, 935 AH). Colophon uses 'al-intikhab' (selection) suggesting an excerpt. Navai was Khandan's patron."
+    },
+    {
+      "record_id": "sipahsalar_qita",
+      "text": {
+        "title": "Calligraphic specimen (qita) from a muraqqa",
+        "title_arabic": "",
+        "author": "Sultan Muhammad Khandan",
+        "author_arabic": "سلطان محمد خندان",
+        "genre": "qita / album leaf"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "",
+        "date_notes": "Undated.",
+        "script_type": "nastaaliq",
+        "language": "Persian",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "Sipahsalar Library (Madrasa-yi Sipahsalar / Mutahhari Library)",
+        "city": "Tehran",
+        "country": "Iran",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": ""
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "bibliography",
+        "source_citation": "Saadati, baysunghur.org/?p=1821 (2021), citing Bayani",
+        "colophon_text": "",
+        "signature_formula": "کتبه العبد سلطان محمد خندان غفر ذنبه",
+        "our_verification": "Listed in baysunghur.org article (scraped 2026-02-26)."
+      },
+      "yek_data": null,
+      "status": "awaiting_access",
+      "further_action": "Contact Sipahsalar/Mutahhari Library for shelfmark.",
+      "notes": "Script: do dang and kitabat-i jali. From a muraqqa."
+    },
+    {
+      "record_id": "mashhad_aqr_qita",
+      "text": {
+        "title": "Calligraphic specimens (qita) from a muraqqa",
+        "title_arabic": "",
+        "author": "Sultan Muhammad Khandan",
+        "author_arabic": "سلطان محمد خندان",
+        "genre": "qita / album leaves"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "",
+        "date_notes": "Undated.",
+        "script_type": "nastaaliq",
+        "language": "Persian",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "Astan-i Quds-i Razavi",
+        "city": "Mashhad",
+        "country": "Iran",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": ""
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "bibliography",
+        "source_citation": "Saadati, baysunghur.org/?p=1821 (2021), citing Bayani; published in Shahkarha-yi Hunari dar Astan-i Quds-i Razavi, Mashhad",
+        "colophon_text": "",
+        "signature_formula": "العبد الراجی فقیر الحقیر سلطان محمد خندان / سلطان محمد خندان / فقیر المذنب سلطان محمد خندان غفر له",
+        "our_verification": "Listed in baysunghur.org article (scraped 2026-02-26). Multiple specimens, three raqm formulas. Published specimens available."
+      },
+      "yek_data": null,
+      "status": "awaiting_access",
+      "further_action": "Obtain Shahkarha-yi Hunari volume for details and reproductions.",
+      "notes": "Multiple specimens with three distinct signatures. Script: do dang, nim do dang, and kitabat. Published in Shahkarha-yi Hunari volume."
+    },
+    {
+      "record_id": "istanbul_univ_qita",
+      "text": {
+        "title": "Calligraphic specimens (qita) from a muraqqa",
+        "title_arabic": "",
+        "author": "Sultan Muhammad Khandan",
+        "author_arabic": "سلطان محمد خندان",
+        "genre": "qita / album leaves"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "",
+        "date_notes": "Undated.",
+        "script_type": "nastaaliq",
+        "language": "Persian",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "Istanbul Universitesi Kutuphanesi (Istanbul University Library)",
+        "city": "Istanbul",
+        "country": "Turkey",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": ""
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "bibliography",
+        "source_citation": "Saadati, baysunghur.org/?p=1821 (2021), citing Bayani",
+        "colophon_text": "",
+        "signature_formula": "العبد سلطان محمد خندان / مشقه العبد سلطان محمد خندان تجاوز الله عنه / سلطان محمد خندان حرّره یاری",
+        "our_verification": "Listed in baysunghur.org article (scraped 2026-02-26). Multiple specimens. Note 'Yari' as possible collaborator."
+      },
+      "yek_data": null,
+      "status": "awaiting_access",
+      "further_action": "Search Istanbul University Library manuscript catalog.",
+      "notes": "Three signatures. Third mentions 'Yari' - possibly a collaborator. Script: si dang to khafi."
+    },
+    {
+      "record_id": "hazine_evkaf_qita",
+      "text": {
+        "title": "Calligraphic specimens (qita) in multiple muraqqa albums",
+        "title_arabic": "",
+        "author": "Sultan Muhammad Khandan",
+        "author_arabic": "سلطان محمد خندان",
+        "genre": "qita / album leaves"
+      },
+      "manuscript": {
+        "date_ah": "957",
+        "date_ce": "1550",
+        "date_notes": "Latest dated specimen: end of Jumada I 957 AH (1550 CE), in Muhammad Muhsin muraqqa. Other specimens undated.",
+        "script_type": "nastaaliq",
+        "language": "Persian",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "Khazina-yi Awqaf / Hazine-i Evkaf (Topkapi Palace Library)",
+        "city": "Istanbul",
+        "country": "Turkey",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": ""
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "bibliography",
+        "source_citation": "Saadati, baysunghur.org/?p=1821 (2021), citing Bayani. Multiple albums.",
+        "colophon_text": "تمت فی الاخر شهر جمیدی الاول سنه سبع و خمسین و تسعمائه کتبه سلطان محمد خندان",
+        "signature_formula": "مشقه العبد سلطان محمد خندان / عبده سلطان محمد خندان / الفقیر سلطان محمد خندان / کتبه سلطان محمد خندان / سلطان محمد خندان غفر ذنوبه",
+        "our_verification": "Listed in baysunghur.org article (scraped 2026-02-26). FOUR named albums: (1) Muraqqa of Amir Ghayb Bayg; (2) Muraqqa of Bahram Mirza; (3) Muraqqa of Sayyid Ahmad Mashhadi; (4) Muraqqa of Muhammad Muhsin (dated 957 AH). Plus additional unnamed albums."
+      },
+      "yek_data": null,
+      "status": "awaiting_access",
+      "further_action": "CRITICAL: Bahram Mirza muraqqa may be Topkapi H.2156. Cross-reference with topkapi_H2356. Contact Topkapi for shelfmarks.",
+      "notes": "RICHEST SINGLE LOCATION for Khandan specimens. 4+ named albums. 957 AH dated specimen matches Bayani's activity range endpoint. Bahram Mirza album has specimens from do dang to ghubar, some on safidab."
+    },
+    {
+      "record_id": "topkapi_revan_qita",
+      "text": {
+        "title": "Calligraphic specimen (qita) from a muraqqa",
+        "title_arabic": "",
+        "author": "Sultan Muhammad Khandan",
+        "author_arabic": "سلطان محمد خندان",
+        "genre": "qita / album leaf"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "",
+        "date_notes": "Undated.",
+        "script_type": "nastaaliq",
+        "language": "Persian",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "Revan Kosku (Topkapi Sarayi Muzesi)",
+        "city": "Istanbul",
+        "country": "Turkey",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": ""
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "bibliography",
+        "source_citation": "Saadati, baysunghur.org/?p=1821 (2021), citing Bayani",
+        "colophon_text": "",
+        "signature_formula": "عبده سلطان محمد خندان",
+        "our_verification": "Listed in baysunghur.org article (scraped 2026-02-26). Single specimen."
+      },
+      "yek_data": null,
+      "status": "awaiting_access",
+      "further_action": "Contact Topkapi Palace Library for Revan Kosku album shelfmark.",
+      "notes": "Script: nim do dang jali. Revan Kiosk is separate from Hazine-i Evkaf within Topkapi."
+    },
+    {
+      "record_id": "edinburgh_qita",
+      "text": {
+        "title": "Calligraphic specimen (qita) from a muraqqa",
+        "title_arabic": "",
+        "author": "Sultan Muhammad Khandan",
+        "author_arabic": "سلطان محمد خندان",
+        "genre": "qita / album leaf"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "",
+        "date_notes": "Undated.",
+        "script_type": "nastaaliq",
+        "language": "Persian",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "Edinburgh University Library",
+        "city": "Edinburgh",
+        "country": "United Kingdom",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": ""
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "bibliography",
+        "source_citation": "Saadati, baysunghur.org/?p=1821 (2021), citing Bayani",
+        "colophon_text": "",
+        "signature_formula": "العبد سلطان محمد خندان",
+        "our_verification": "Listed in baysunghur.org article (scraped 2026-02-26). Single specimen."
+      },
+      "yek_data": null,
+      "status": "awaiting_access",
+      "further_action": "Search Edinburgh University Library Special Collections catalog.",
+      "notes": "Minimal detail in source."
+    },
+    {
+      "record_id": "bayani_collection_qita",
+      "text": {
+        "title": "Calligraphic specimen (qita)",
+        "title_arabic": "",
+        "author": "Sultan Muhammad Khandan",
+        "author_arabic": "سلطان محمد خندان",
+        "genre": "qita / album leaf"
+      },
+      "manuscript": {
+        "date_ah": "",
+        "date_ce": "",
+        "date_notes": "Undated.",
+        "script_type": "nastaaliq",
+        "language": "Persian",
+        "folio_count": null,
+        "dimensions_mm": "",
+        "place_of_copying": ""
+      },
+      "holding": {
+        "institution": "Bayani private collection",
+        "city": "Tehran",
+        "country": "Iran",
+        "shelfmark": "",
+        "current_holder_confirmed": false,
+        "external_url": ""
+      },
+      "attribution": {
+        "confidence_level": "catalogued",
+        "source_type": "bibliography",
+        "source_citation": "Saadati, baysunghur.org/?p=1821 (2021), citing Bayani",
+        "colophon_text": "",
+        "signature_formula": "کتبه سلطان محمد خندان",
+        "our_verification": "Listed in baysunghur.org article (scraped 2026-02-26). Same collection as bayani_bustan_920."
+      },
+      "yek_data": null,
+      "status": "awaiting_access",
+      "further_action": "Bayani collection location after 1966 unknown.",
+      "notes": "Script: do dang and kitabat-i jali. DISTINCT from bayani_bustan_920 (codex). Same collector: Mahdi Bayani."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "yek_id": 705096,
+  "shelfmark": "02044-014",
+  "collection": "TIEM Yazma Eser Koleksiyonu",
+  "verdict": "colophon_not_found",
+  "confidence": 0.75,
+  "confidence_breakdown": {
+    "resolution_quality": 0.9,
+    "colophon_coverage": 0.9,
+    "text_legibility": 0.6,
+    "limiting_factor": "resolution"
+  },
+  "colophon_text_read": "تمت المقالات المدعوة بالهى نامه للشيخ العارف والواصل فريد الدين العطار قدس الله [?] ... بحمد الله تعالى و حسن توفيقه والصلوة على سيدنا محمد [و] آله الطيبين الطاهرين و سلم",
+  "signature_formula_found": "",
+  "name_in_colophon": "",
+  "date_in_colophon": "",
+  "date_ah_read": "",
+  "date_ce_computed": "",
+  "place_in_colophon": "",
+  "internal_iiif_id": "0000000664055",
+  "total_pages": 0,
+  "pages_examined": [596],
+  "screenshots_saved": [
+    "corpus/colophon_screenshots/tiem_02044-014_p596_iiif.png",
+    "corpus/colophon_screenshots/tiem_02044-014_p596_colophon_iiif.png",
+    "corpus/colophon_screenshots/tiem_02044-014_p596_below_iiif.png",
+    "corpus/colophon_screenshots/tiem_02044-014_p596_margin_iiif.png"
+  ],
+  "colophon_page_number": 0,
+  "colophon_in_metadata": false,
+  "colophon_metadata_text": "",
+  "different_scribe_name": "",
+  "verification_date": "2026-02-25",
+  "notes": "Multi-text codex. Ilahinama by Fariduddin Attar is text #14, folios 529a-593a. Text ends on digitized page 596 (folio 593a) with completion formula naming only the author Attar, followed by hamdala and salawat. No scribal colophon or copyist name found. Small marginal notes visible below the text frame but too small to read at available resolution -- likely reader/collation notes rather than scribal subscription. Cataloguer notes 'Eserin bu nushasi bastan eksiktir' (defective at beginning). Option 4 candidate -- no evidence of Khandan attribution found."
+}
