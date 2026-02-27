@@ -1,6 +1,6 @@
 # Sultan Muhammad Khandan — Corpus of Known Manuscripts
 
-*Research report compiled 2026-02-26, updated 2026-02-27. Based on searches of the YEK portal (portal.yek.gov.tr / yazmalar.gov.tr), FIHRIST (fihrist.org.uk), and online museum catalogs. Data file: `catalog/world_corpus.json`.*
+*Research report compiled 2026-02-26, updated 2026-02-27. Based on searches of the YEK portal (portal.yek.gov.tr / yazmalar.gov.tr), FIHRIST (fihrist.org.uk), online museum catalogs, and analysis of `references/khandan_manuscripts.md`. Data file: `catalog/world_corpus.json` (48 entries).*
 
 ---
 
@@ -113,7 +113,7 @@ Manuscripts listed in scholarly catalogs (Bayani, FIHRIST, secondary literature)
 | private_paris_yusuf_923 | — | Private collection, Paris | Yūsuf va Zulaykha (Jāmī) | 923 | 1517 | Bayani; formula: كتبه الفقير خندان في سنة ٩٢٣ |
 | kabul_hafiz_926 | — | Kabul National Archive | Dīwān-i Ḥāfiẓ | 926 | 1519–20 | Bayani; "early spring 926 AH" |
 | rylands_hafiz_937 | Persian MS 842 | John Rylands Library, Manchester | Dīwān-i Ḥāfiẓ | 937 | 1530 | FIHRIST manuscript_7351; colophon: completed in Herat 937 AH |
-| stpetersburg_navai_935 | — | RNL or IOM RAS, St. Petersburg | Dīwān-i Navāʾī (Chagatay Turkish) | 935 | 1528–29 | Bayani |
+| stpetersburg_navai_935 | — | Russian National Library (RNL), St. Petersburg | Dīwān-i Navāʾī (Chagatay Turkish) | 935 | 1528–29 | Bayani; confirmed at RNL via abadis.ir |
 | bl_or_11839 | Or 11839 | British Library | Calligraphy specimens album | 925–977 | 16th–17th c. | FIHRIST manuscript_5387 |
 | bodleian_suhili | MS. Elliott 102 | Bodleian Library, Oxford | Dīwān-i Suhaylī (Chagatay) | undated | — | FIHRIST manuscript_23004; 98 ff. |
 | malik_munajat | — | Mālik National Library, Tehran | Munājātnāma | undated | — | baysunghur.org; published facsimile 2012 |
@@ -132,6 +132,8 @@ Manuscripts listed in scholarly catalogs (Bayani, FIHRIST, secondary literature)
 | topkapi_revan_qita | — | Revan Köşkü, Topkapi | Calligraphic specimen (qiṭʿa) | undated | — | baysunghur.org citing Bayani |
 | edinburgh_qita | — | Edinburgh University Library | Calligraphic specimen (qiṭʿa) | undated | — | baysunghur.org citing Bayani |
 | bayani_collection_qita | — | Bayani collection, Tehran | Calligraphic specimen (qiṭʿa) | undated | — | baysunghur.org citing Bayani |
+| michigan_qita_914 | Isl. Ms. 438, fol. 2a | Univ. of Michigan, SCRC | Calligraphic specimen (qiṭʿa) in Ottoman album | 914? | 1508–09? | baysunghur.org; HathiTrust 006814657 |
+| berlin_khayyam_leaf | — | Museum f. Asiatische Kunst, Berlin | Composite leaf: Khayyam rubāʿī | undated | 16th c. | YJC.ir #8827074; id. by M.M. Ahadian |
 
 **Notes on the catalogued group:**
 
@@ -143,8 +145,13 @@ Manuscripts listed in scholarly catalogs (Bayani, FIHRIST, secondary literature)
 - Michigan Simpson 13ASIMPSON0460 is an archival photograph in Marianna Shreve Simpson's Islamic manuscript research archive (U-M Library), not a distinct physical manuscript. The Classification Filing Number "Or 11839" identifies it as a record for BL Or 11839 (already in corpus as bl_or_11839). It confirms that Simpson documented Khandan's specimens in that album during her research.
 - CBL Per 183 (Bustan 916 AH) is described in the Chester Beatty catalog as "a splendid calligraphic by a master hand." The catalog cites Khandan's death date as 950 AH (from Huart); Bayani contradicts this with manuscripts dated to 957 AH.
 - CBL Per 184 (Hafiz 920 AH) is a single folio by the same scribe as CBL Per 183. Illumination described as "of great delicacy and accomplishment."
-- The Hazine-i Evkaf group (Istanbul) is the richest single location for Khandan qitʿa specimens: at least 4 named albums (Amir Ghayb Bayg, Bahram Mirza, Sayyid Ahmad Mashhadi, Muhammad Muhsin) plus additional unnamed albums. The Bahram Mirza muraqqa' may be Topkapi H.2156, cross-referencing the pending topkapi_H2356 item. The Muhammad Muhsin muraqqa' contains the latest dated Khandan specimen (Jumada I 957 AH / 1550 CE).
+- The Hazine-i Evkaf group (Istanbul) is the richest single location for Khandan qitʿa specimens: at least 4 named albums (Amir Ghayb Bayg, Bahram Mirza, Sayyid Ahmad Mashhadi, Muhammad Muhsin) plus additional unnamed albums. The Bahram Mirza muraqqa' is Topkapi H.2154 (confirmed via Encyclopaedia Iranica). The Muhammad Muhsin muraqqa' contains the latest dated Khandan specimen (Jumada I 957 AH / 1550 CE).
 - The baysunghur.org article (Saadati 2021) is the source for most new entries in this table. It synthesizes Bayani (1966) and other published sources. Items should be verified independently where possible.
+- Michigan Isl. Ms. 438 (2026-02-27): A 42-specimen Ottoman calligraphy album (Hutut-ı mütenevvia-yı İslamiye albümü) with pieces dated 914–1317 AH, assembled for Sultan Abdülhamit II. Fully digitized on HathiTrust (public domain). Baysunghur.org attributes the 914 AH date to Khandan's specimen on fol. 2a, but the album contains works by multiple calligraphers and the 914 AH date could belong to another piece. Catalogued by Mamoun Sakkal.
+- Berlin Humboldt Forum leaf (2026-02-27): Composite calligraphy leaf (zarnawisht) identified in September 2024 by Muhammad Mahdi Ahadian at an exhibition. Three calligraphers in a master-student chain: Muhammad Husayn Tabrizi, Sultan Ali Mashhadi, and Khandan (Khayyam rubāʿī). Located in Museum für Asiatische Kunst (NOT Museum für Islamische Kunst). No inventory number found online.
+- St. Petersburg Navai (935 AH): confirmed at Russian National Library (RNL), not IOM RAS. Dorn catalog numbering system; specific Dorn number unknown.
+- Private Paris Yusuf va Zulaykha (923 AH): enriched with Sotheby's Paris 2015 lot 9 details — 11 folios, 2 miniatures, 25×16 cm, €10,000–15,000.
+- Bahram Mirza album shelfmark corrected: H.2154 (not H.2156), per Encyclopaedia Iranica.
 
 ---
 
@@ -156,7 +163,8 @@ Manuscripts listed in scholarly catalogs (Bayani, FIHRIST, secondary literature)
 | bl_or_8760 | Or 8760 | British Library | Dīwān-i Shāhī, 888 AH | Date 888 AH anomalous — predates Khandan by 27 years. Simpson (*Sultan Ibrahim Mirza's Haft Awrang*) confirms "Shahi dated 888/1483-84 (BL Or. 8760)"; Meredith-Owens 1968 p.56. Appears to be a copying date per catalog convention. Attribution to Khandan unresolved. |
 | christies_hoare_bustan | — (sold) | Private (after Mayfair 2023) | Bustān (Saʿdī), undated | **NEW (2026-02-27).** 464ff, nastaliq, Safavid Iran 16th c. Christie's (Oliver Hoare Collection, 25 Oct 2019, lot 79, est. £3,000–5,000) describes Khandan signature as **"pasted, purported"** — physically glued onto final folio, not original colophon. Re-sold Mayfair Auction House 25 May 2023, lot 31, est. £16,500–17,500. |
 | topkapi_H2356 | H.2356 | Topkapi Palace Museum Library | Muraqqa (calligraphy album) | Cited in Sotheby's 2018 as containing Khandan pages. No YEK record with Khandan attribution found. Requires physical access or consultation of Karatay 1961 catalogue. |
-| yek_705856_candidate | Recaizade Ekrem Bey 00066 | İstanbul Arkeoloji Müzeleri | Bustān (Saʿdī) | Colophon formula 'أضعف عبادالله' legible on f.144v but scribe-name portion physically lost to folio damage. Verdict: inconclusive (confidence 0.38). Physical examination of manuscript required. |
+| majlis_nasimi_910 | IR10-11151 | Majlis Library, Tehran | Dīwān-i Nasīmī (Turkish), 910 AH | **NEW (2026-02-27).** Colophon says "Sultan Muhammad" only — **no laqab 'Khandan'**. Bayani (vol. I, pp. 268, 272) attributes tentatively: "may be" Khandan. 127 ff., 14 lines, 8×13 cm, three Timurid illuminated headpieces. If confirmed, earliest dated work (910 AH) and rare Turkish text. |
+| yek_705856_candidate | Recaizade Ekrem Bey 00066 | İstanbul Arkeoloji Müzeleri | Bustān (Saʿdī) | Colophon formula 'أضعف عبادالله' legible on f.144v but scribe-name portion physically lost to folio damage. Verdict: inconclusive (confidence 0.45). Physical examination of manuscript required. |
 
 ---
 
@@ -178,7 +186,7 @@ Manuscripts listed in scholarly catalogs (Bayani, FIHRIST, secondary literature)
 
 | YEK ID | Shelfmark | Title | Verdict | Confidence | Notes |
 | --- | --- | --- | --- | --- | --- |
-| 705856 | Recaizade Ekrem Bey 00066 | Bustān (Saʿdī) | inconclusive | 0.38 | Colophon formula أضعف عبادالله legible on f.144v; name portion physically lost to folio damage. IIIF: 0000000664425. Physical examination required. |
+| 705856 | Recaizade Ekrem Bey 00066 | Bustān (Saʿdī) | inconclusive | 0.45 | Colophon formula أضعف عبادالله legible on f.144v; name portion physically lost to folio damage. IIIF: 0000000664425. Physical examination required. |
 
 ### False Positives Identified
 
@@ -196,7 +204,7 @@ Manuscripts listed in scholarly catalogs (Bayani, FIHRIST, secondary literature)
 
 | Text | Author | Genre | Copies in corpus |
 | --- | --- | --- | --- |
-| Bustān | Saʿdī | masnavi | 5 (bayani_bustan_920; chester_beatty_bustan_916; bonhams_bustan_956; yek_705856_candidate; christies_hoare_bustan [pasted signature]) |
+| Bustān | Saʿdī | masnavi | 6 (bayani_bustan_920; chester_beatty_bustan_916; bonhams_bustan_956; yek_705856_candidate; christies_hoare_bustan [pasted signature]; semenov_bustan_undated [Semenov 1925]) |
 | Subḥat al-Abrār | Jāmī | masnavi | 2 (christies_subhat_930; gulbenkian_subhat_972) + Karatay 777 (unconfirmed) |
 | Yūsuf va Zulaykha | Jāmī | masnavi | 3 (private_tehran_yusuf_915; private_paris_yusuf_923; tehran_nli_yusuf) |
 | Dīwān-i Ḥāfiẓ | Ḥāfiẓ | divan | 3 (kabul_hafiz_926; rylands_hafiz_937; chester_beatty_hafiz_920) |
@@ -212,6 +220,7 @@ Manuscripts listed in scholarly catalogs (Bayani, FIHRIST, secondary literature)
 | Munājātnāma | attr. Imam ʿAlī | prose/munajat | 1 (malik_munajat) |
 | Tuḥfat al-Aḥrār | Jāmī | masnavi | 1 (roseberys_tuhfat_2021) |
 | Sayings of Imām ʿAlī | attr. Imām ʿAlī | Arabic prose + Persian | 1 (christies_imam_ali_2010) |
+| Dīwān-i Nasīmī | ʿImād al-Dīn Nasīmī | divan (Turkish) | 1 (majlis_nasimi_910) — **tentative**: colophon says "Sultan Muhammad" only, no laqab "Khandan" |
 | Album leaves / qitʿa | various | calligraphy | 12+ (freer_F1937_22; cleveland_1983_1115; harvard_1985_263; bl_or_11839; lacma_horse_groom; sipahsalar_qita; mashhad_aqr_qita; istanbul_univ_qita; hazine_evkaf_qita; topkapi_revan_qita; edinburgh_qita; bayani_collection_qita) |
 
 ---
@@ -220,6 +229,8 @@ Manuscripts listed in scholarly catalogs (Bayani, FIHRIST, secondary literature)
 
 | Date AH | Date CE | Text | Location |
 | --- | --- | --- | --- |
+| 910? | 1504? | Dīwān-i Nasīmī (Turkish) | Majlis IR10-11151, Tehran [TENTATIVE] |
+| 914? | 1508–09? | Calligraphic specimen (qiṭʿa) | Univ. of Michigan Isl. Ms. 438 [DATE UNCERTAIN] |
 | 915 | 1509–10 | Yūsuf va Zulaykha | Private, Tehran |
 | 916 | 1510 | Bustān | Chester Beatty Per 183, Dublin |
 | 920 | 1514 | Page from Dīwān-i Ḥāfiẓ | Chester Beatty Per 184, Dublin |
@@ -252,6 +263,8 @@ Manuscripts listed in scholarly catalogs (Bayani, FIHRIST, secondary literature)
 | undated | c.1540s | Album folio (Horse and Groom reverse) | LACMA 1982.120.4 |
 | undated | — | Calligraphy specimens [archival record] | Univ. of Michigan / BL Or 11839 |
 | undated | c.1510–50 | Bustān [candidate] | Arkeoloji Recaizade Ekrem Bey 00066 |
+| undated | 16th c. | Composite leaf: Khayyam rubāʿī | Museum f. Asiatische Kunst, Berlin |
+| undated | 16th c.? | Bustān (Saʿdī) [Semenov 1925] | Russian institution (unidentified) |
 
 ---
 
@@ -260,7 +273,7 @@ Manuscripts listed in scholarly catalogs (Bayani, FIHRIST, secondary literature)
 | Item | Action Required |
 | --- | --- |
 | YEK 705856 (Bustan, Recaizade Ekrem Bey 00066) | Physical examination of manuscript. Right margin of f.144v physically torn; scribe name lost. Contact İstanbul Arkeoloji Müzeleri. |
-| Topkapi H.2356 (Muraqqa) | Consult Karatay 1961 printed catalogue or contact Topkapi Palace Museum Library directly. NOTE: baysunghur.org lists a "Muraqqa of Bahram Mirza" in Hazine-i Evkaf — this may be H.2156, cross-referencing this item. |
+| Topkapi H.2356 (Muraqqa) | Consult Karatay 1961 printed catalogue or contact Topkapi Palace Museum Library directly. NOTE: Bahram Mirza muraqqa' confirmed as H.2154 (not H.2156). |
 | Topkapi Karatay 777/787 (Subhat al-Abrar, 930 AH) | Same as above. |
 | ~~Gulbenkian LA 159 shelfmark~~ | **RESOLVED.** Shelfmark LA159 confirmed via Gulbenkian Museum online catalog, 2026-02-26. |
 | BL Or 8760 (888 AH) | Verify whether 888 AH is date of text composition or manuscript copying. |
@@ -269,8 +282,14 @@ Manuscripts listed in scholarly catalogs (Bayani, FIHRIST, secondary literature)
 | Majlis Library ms. 1343 (Divan-i Shahi, 944 AH) | Search Majlis Library online catalog (lib.icana.ir) or contact institution. |
 | National Library of Iran (Yusuf va Zulaykha, undated) | Search NLI catalog or Dirayati for shelfmark. |
 | National Museum of Iran (Divan-i Navai, undated) | Contact institution for shelfmark. |
-| Hazine-i Evkaf album shelfmarks | Identify shelfmarks for all 4+ named albums. Cross-reference Bahram Mirza muraqqa with topkapi_H2356. |
+| Hazine-i Evkaf album shelfmarks | Identify shelfmarks for all 4+ named albums. Bahram Mirza muraqqa' confirmed as Topkapi H.2154. |
 | ~~christies_subhat_930 vs. Sultani al-Qurani~~ | **RESOLVED (2026-02-27).** No evidence of a separate Sultani al-Qurani copy found. Likely the same manuscript under a different provenance label. |
+| Michigan Isl. Ms. 438, fol. 2a (914 AH?) | **NEW (2026-02-27).** Album fully digitized on HathiTrust but scan quality insufficient. Contact U-M Special Collections for high-res scan and folio-level catalog. Verify whether 914 AH date belongs to the Khandan specimen or another piece in the 42-specimen album. |
+| Berlin Humboldt Forum leaf | **NEW (2026-02-27).** Contact Museum für Asiatische Kunst for inventory number. No online catalog entry found. |
+| Majlis Nasimi IR10-11151 (910 AH) | **NEW (2026-02-27).** Tentative attribution only — colophon says "Sultan Muhammad" without laqab "Khandan". Physical inspection needed. |
+| St. Petersburg Bustan (Semenov 1925) | **NEW (2026-02-27).** A.A. Semenov published description in *Izvestiya* ser. 6, vol. 19, no. 18 (1925), p. 975. Location uncertain (RNL, IOM RAS, or Dushanbe). Article not accessible online. |
+| Dispersed Mughal album (Windsor/Doha/Sotheby's 2020) | **NEW (2026-02-27).** ~95 folios, Khandan named by Sotheby's among calligraphers. Specific Khandan folios not identified. Key ref: Hannam 2018, pp. 64–79. |
+| Dirayati database (noskhe.ir) | Authenticated access to Iran's manuscript union catalog would likely reveal additional Khandan entries. Highest-priority unsearched source. |
 
 ---
 
@@ -297,3 +316,10 @@ Manuscripts listed in scholarly catalogs (Bayani, FIHRIST, secondary literature)
 - Saadati, Khodabakhsh. "سلطان‌محمد خندان" [Sultan Muhammad Khandan]. *baysunghur.org*, 1400/01/22 [April 2021]. <https://baysunghur.org/?p=1821>. Compiled from Bayani, Munshī Qumī, Guvāshānī, Navāʾī, Khvāndamīr, Vāṣifī, and Shāyiq.
 - Gulbenkian Museum online catalog. "Subhat al-Abrar (The Rosary of the Pious)." Inventory LA159. <https://gulbenkian.pt/museu/en/works/subhat-al-abrar-the-rosary-of-the-pious/>
 - Huart, Clément. *Les Calligraphes et les Miniaturistes de l'Orient Musulman*. Paris, 1908. P. 224 (Khandan death date 950 AH — contradicted by Bayani).
+- Sotheby's Paris, *Regards sur l'Orient*, 22 October 2015, Lot 9 (Yūsuf va Zulaykha, AH 923). Sale PF1519. <http://www.sothebys.com/en/auctions/ecatalogue/2015/art-orientaliste-pf1519/lot.9.html>
+- Roxburgh, David J. *Prefacing the Image: The Writing of Art History in Sixteenth-Century Iran*. Leiden: Brill, 2001. P. 62 (Khandan as "leading student of Sultan Ali Mashhadi").
+- Hannam, Rosemary. [2018]. Key reference for dispersed late Akbar-period Mughal album (Windsor/Doha/Sotheby's 2020), pp. 64–79, 241 fn. 10.
+- Semenov, A.A. "A manuscript of Sa'di's Bustan by the Herat artist Sultan-Muhammad Khandan." *Izvestiya*, ser. 6, vol. 19, no. 18 (1925), p. 975. [Not accessed online.]
+- YJC.ir. "خیام و خواجه یحیی و امیرخسرو دهلوی در قاب زرنوشت." Article #8827074, September 2024. [Berlin composite leaf identification by M.M. Ahadian.]
+- HathiTrust Digital Library. *Hutut-ı mütenevvia-yı İslamiye albümü*. Catalog Record 006814657. <https://catalog.hathitrust.org/Record/006814657>
+- Serin, Muhittin. "Amerika Birleşik Devletleri'ndeki Bazı Kütüphanelerde Bulunan İslam El Yazma Eserleri ve Michigan Üniversitesi II. Abdülhamid Koleksiyonu." [Michigan Isl. Ms. 438 description.]

@@ -16,7 +16,7 @@ He is distinct from Sultan Muhammad Nūr (سلطان محمد نور), a contemp
 
 ## Corpus
 
-The corpus currently contains **44 manuscripts and album leaves** across institutions worldwide, ranging from codices (Bustān, Dīwān-i Ḥāfiẓ, Subḥat al-Abrār, Yūsuf va Zulaykha, etc.) to single-folio calligraphic specimens (qiṭʿa). See [`catalog/world_corpus.json`](catalog/world_corpus.json) for the full structured dataset and [`REPORT.md`](REPORT.md) for the annotated research report with chronological tables and bibliography.
+The corpus currently contains **48 manuscripts and album leaves** across institutions worldwide, ranging from codices (Bustān, Dīwān-i Ḥāfiẓ, Subḥat al-Abrār, Yūsuf va Zulaykha, etc.) to single-folio calligraphic specimens (qiṭʿa). See [`catalog/world_corpus.json`](catalog/world_corpus.json) for the full structured dataset and [`REPORT.md`](REPORT.md) for the annotated research report with chronological tables and bibliography.
 
 ### Confidence levels
 
@@ -24,8 +24,8 @@ The corpus currently contains **44 manuscripts and album leaves** across institu
 |-------|------:|---------|
 | Confirmed | 1 | Colophon visually verified by this project |
 | Attributed | 12 | Signed colophon documented in a primary source |
-| Catalogued | 26 | Listed in scholarly catalogs without independent verification |
-| Unverified | 4 | Requires further investigation |
+| Catalogued | 29 | Listed in scholarly catalogs without independent verification |
+| Unverified | 5 | Requires further investigation |
 | Bibliographic error | 1 | Resolved as misattribution or duplicate |
 
 ## Methodology
@@ -47,7 +47,7 @@ Agent definitions and skills are in [`.claude/`](.claude/).
 
 ```
 catalog/
-  world_corpus.json          # 44-entry structured corpus
+  world_corpus.json          # 48-entry structured corpus
   corpus_index.json          # Index by collection
   *_verdict.json             # Colophon verification verdicts
 references/

@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-02-26",
+  "last_updated": "2026-02-27",
   "total_manuscripts": 3,
   "world_corpus_file": "catalog/world_corpus.json",
-  "notes": "YEK pipeline record — covers only manuscripts found via YEK portal (Sessions 1–4, 2026-02-25/26). For the full global corpus including auction lots, museum records, and bibliographic references, see catalog/world_corpus.json (30 entries). YEK portal exhaustively searched across 4 sessions, all 5 term tiers × all relevant fields. No further genuine attributions found in YEK beyond these 2 records.",
+  "notes": "YEK pipeline record — covers only manuscripts found via YEK portal (Sessions 1–4, 2026-02-25/26). For the full global corpus including auction lots, museum records, and bibliographic references, see catalog/world_corpus.json (48 entries). YEK portal exhaustively searched across 4 sessions, all 5 term tiers × all relevant fields. No further genuine attributions found in YEK beyond these 2 records.",
   "manuscripts": [
     {
       "record_id": "arkeoloji_00153",
@@ -47,7 +47,7 @@
       "script_type": "nastaʿlīq",
       "has_digital_images": true,
       "colophon_verdict": "inconclusive",
-      "confidence": 0.38,
+      "confidence": 0.45,
       "pipeline_stage": "colophon_verification",
       "search_date": "2026-02-26",
       "verdict_file": "catalog/yek_705856_verdict.json",
